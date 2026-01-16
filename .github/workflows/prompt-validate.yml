@@ -1,0 +1,22 @@
+name: Prompt Validation
+
+on:
+  push:
+    paths:
+      - 'prompts/**'
+  pull_request:
+    paths:
+      - 'prompts/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install (no deps required)
+        run: echo "No additional Python deps"
+      - name: Run prompt validator
+        run: python .github/scripts/validate_prompts.py

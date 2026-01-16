@@ -6,6 +6,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg)](LICENSE)
 [![Maintained](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/naqashmunir21/awesome-suno-prompts/graphs/commit-activity)
+[![Forks](https://img.shields.io/github/forks/naqashmunir21/awesome-suno-prompts?style=social)](https://github.com/naqashmunir21/awesome-suno-prompts/network/members)
+[![Open Issues](https://img.shields.io/github/issues/naqashmunir21/awesome-suno-prompts)](https://github.com/naqashmunir21/awesome-suno-prompts/issues)
+[![Discussions](https://img.shields.io/github/discussions/naqashmunir21/awesome-suno-prompts)](https://github.com/naqashmunir21/awesome-suno-prompts/discussions)
 
 ---
 

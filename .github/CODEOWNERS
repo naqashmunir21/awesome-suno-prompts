@@ -1,0 +1,4 @@
+# Code owners for repository reviews
+/prompts/ @naqashmunir21
+/examples/ @naqashmunir21
+*.md @naqashmunir21
