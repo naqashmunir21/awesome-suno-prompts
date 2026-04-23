@@ -23,6 +23,11 @@ This repository contains battle-tested **Suno AI style prompts** organized by ge
 ## 📚 Table of Contents
 
 - [Quick Start](#-quick-start)
+- [Song AI Farm Tools](#️-song-ai-farm-tools--go-further-faster)
+  - [Melody to Lyrics](#-melody-to-lyrics)
+  - [Song DNA Analyzer](#-song-dna-analyzer)
+  - [Write Lyrics with AI](#️-write-song-lyrics-with-ai)
+  - [350+ Prompts Pack (Gumroad)](#-350-suno-ai-prompts-pack-premium-pdf)
 - [Genre Collections](#-genre-collections)
   - [Pop Prompts](#-pop-prompts) (200+ examples)
   - [Rock Prompts](#-rock-prompts) (150+ examples)
@@ -52,6 +57,51 @@ Each prompt is ready to use. Modify BPM, key, or instrumentation to fit your vis
 Paste the prompt into Suno AI (V4.5 or V5) and let the magic happen!
 
 **Pro Tip:** Not sure how to customize prompts? Use [Song AI Farm's free generator](https://www.songaifarm.com) - it handles all the technical details automatically.
+
+---
+
+## 🛠️ Song AI Farm Tools — Go Further Faster
+
+Level up your Suno AI workflow with these free tools built by the Song AI Farm team:
+
+### 🎵 Melody to Lyrics
+> **Have a tune but no words? Drop your audio — get lyrics that fit perfectly.**
+
+Upload any melody, hum, or audio file and Song AI Farm writes lyrics that match every beat, phrase, and syllable of your music. No timing guesswork, no syllable mismatches — just Suno-ready output.
+
+- ✅ Any audio format accepted
+- ✅ 30+ languages supported
+- ✅ Suno-ready output (drops straight into Suno's Lyrics box)
+- ✅ Custom genre & mood controls
+
+**[→ Try Melody to Lyrics — Free](https://www.songaifarm.com/melody-to-lyrics)**
+
+---
+
+### 🧬 Song DNA Analyzer
+> **Reverse-engineer any song and auto-fill your prompt generator.**
+
+Upload an audio file and get a full breakdown of its DNA: lyrics, structure, theme, instrumentation, tempo, and more. The analyzer auto-populates the song generator so you can clone a vibe instantly.
+
+**[→ Analyze a Song — Free](https://www.songaifarm.com/song-analyzer)**
+
+---
+
+### ✍️ Write Song Lyrics with AI
+> **Professional lyrics in any language, any genre, any mood — ready for Suno AI & Udio.**
+
+The full-featured AI lyrics generator. Pick genre, mood, language, and theme — get polished, song-structured lyrics in seconds. Completely free forever.
+
+**[→ Generate Lyrics — Free](https://www.songaifarm.com/lyrics-generator)**
+
+---
+
+### 📦 350+ Suno AI Prompts Pack *(Premium PDF)*
+> **Want the best prompts curated, categorized, and ready to copy-paste? Grab the pack.**
+
+The official **350+ SUNO AI PROMPTS PACK** on Gumroad — a premium PDF with battle-tested prompts across every major genre, production style, and mood. Perfect for creators who want results without the trial-and-error.
+
+**[→ Get the 350+ Prompts Pack on Gumroad](https://naqashkhan.gumroad.com/l/sbrxwh)**
 
 ---
 
@@ -562,8 +612,18 @@ This repository is licensed under [CC0 1.0 Universal](LICENSE) (Public Domain). 
 
 ## 🔗 Related Resources
 
-### Tools & Platforms
-- **[Song AI Farm](https://www.songaifarm.com)** - AI-powered prompt + lyrics generator (free, uses patterns from this repo)
+### 🛠️ Song AI Farm Tools (Free)
+| Tool | What It Does | Link |
+|------|-------------|------|
+| **Melody to Lyrics** | Upload a melody/hum → AI writes matching lyrics | [songaifarm.com/melody-to-lyrics](https://www.songaifarm.com/melody-to-lyrics) |
+| **Song DNA Analyzer** | Upload audio → extract structure, lyrics, instrumentation | [songaifarm.com/song-analyzer](https://www.songaifarm.com/song-analyzer) |
+| **Lyrics Generator** | Professional lyrics in any language, genre & mood | [songaifarm.com/lyrics-generator](https://www.songaifarm.com/lyrics-generator) |
+| **Prompt Generator** | Auto-generate optimized Suno prompts | [songaifarm.com](https://www.songaifarm.com) |
+
+### 💎 Premium
+- **[350+ SUNO AI PROMPTS PACK (PDF)](https://naqashkhan.gumroad.com/l/sbrxwh)** — Curated, categorized, copy-paste ready prompts pack on Gumroad
+
+### Music Generation Platforms
 - **[Suno AI](https://suno.com)** - Text-to-music platform (where these prompts work)
 - **[Udio](https://udio.com)** - Alternative AI music generator
 
@@ -585,6 +645,26 @@ This repository is licensed under [CC0 1.0 Universal](LICENSE) (Public Domain). 
 - 🐛 [Report Issues](https://github.com/naqashmunir21/awesome-suno-prompts/issues)
 - 💡 [Request Prompts](https://github.com/naqashmunir21/awesome-suno-prompts/issues/new?template=prompt-request.md)
 - 💬 [Join Discussions](https://github.com/naqashmunir21/awesome-suno-prompts/discussions)
+
+---
+
+## 💬 Discussions (setup guide)
+
+We use GitHub Discussions for community Q&A, prompt requests, and Show & Tell. If you haven't enabled Discussions yet, go to **Settings → Features → Enable Discussions**. After enabling, create these categories:
+
+- General
+- Prompt Requests
+- Show & Tell
+- Q&A
+
+Suggested starter posts (copy-paste into new Discussions and pin):
+
+- `discussions/welcome.md` — Welcome message and quick links
+- `discussions/prompt-requests.md` — Template for requesting prompts
+- `discussions/show-and-tell.md` — Share audio and results
+- `discussions/community-guidelines.md` — Rules and moderation notes
+
+Tip: Use the drafts in `discussions/` as the initial pinned posts so contributors can quickly find where to ask and share.
 
 ### Stay Updated
 - ⭐ Star this repo to get updates
@@ -618,7 +698,10 @@ If this repository helped you create amazing music:
 - ⭐ **Star this repo** - Helps others discover it
 - 🔀 **Share with friends** - Spread the knowledge
 - 💬 **Contribute prompts** - Give back to the community
-- 🎵 **Try [Song AI Farm](https://www.songaifarm.com)** - Auto-generates prompts using these patterns
+- 🎵 **Try [Song AI Farm](https://www.songaifarm.com)** - Free prompt + lyrics generator using these patterns
+- 🧬 **[Analyze your songs](https://www.songaifarm.com/song-analyzer)** - Song DNA Analyzer
+- 🎵 **[Turn melodies into lyrics](https://www.songaifarm.com/melody-to-lyrics)** - Melody to Lyrics tool
+- 📦 **[Grab the 350+ Prompts Pack](https://naqashkhan.gumroad.com/l/sbrxwh)** - Premium curated PDF on Gumroad
 
 ---
 
@@ -626,6 +709,8 @@ If this repository helped you create amazing music:
 
 **Made with 💚 by the [Song AI Farm](https://www.songaifarm.com) community**
 
-[🌐 Website](https://www.songaifarm.com) • [🐦 Twitter](https://twitter.com/songaifarm) • [💬 Discord](https://discord.gg/d7RKGpTbwV)
+[🌐 Website](https://www.songaifarm.com) • [🎵 Melody to Lyrics](https://www.songaifarm.com/melody-to-lyrics) • [🧬 Song Analyzer](https://www.songaifarm.com/song-analyzer) • [✍️ Lyrics Generator](https://www.songaifarm.com/lyrics-generator) • [📦 Prompts Pack](https://naqashkhan.gumroad.com/l/sbrxwh)
+
+[🐦 Twitter](https://twitter.com/songaifarm) • [💬 Discord](https://discord.gg/d7RKGpTbwV)
 
 </div>
