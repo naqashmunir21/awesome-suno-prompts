@@ -28,6 +28,7 @@ This repository contains battle-tested **Suno AI style prompts** organized by ge
   - [Song DNA Analyzer](#-song-dna-analyzer)
   - [Write Lyrics with AI](#️-write-song-lyrics-with-ai)
   - [350+ Prompts Pack (Gumroad)](#-350-suno-ai-prompts-pack-premium-pdf)
+- [🛒 Marketplace — Premium Music Products](#-marketplace--premium-music-products)
 - [Genre Collections](#-genre-collections)
   - [Pop Prompts](#-pop-prompts) (200+ examples)
   - [Rock Prompts](#-rock-prompts) (150+ examples)
@@ -102,6 +103,30 @@ The full-featured AI lyrics generator. Pick genre, mood, language, and theme —
 The official **350+ SUNO AI PROMPTS PACK** on Gumroad — a premium PDF with battle-tested prompts across every major genre, production style, and mood. Perfect for creators who want results without the trial-and-error.
 
 **[→ Get the 350+ Prompts Pack on Gumroad](https://naqashkhan.gumroad.com/l/sbrxwh)**
+
+---
+
+## 🛒 Marketplace — Premium Music Products
+
+> Curated premium music and licensing products. Purchases made through these links support this project.
+
+---
+
+### 🎬 PR001 — FULL DISCOGRAPHY by Isaac Haines
+> **Music made for film — Zero claims, Zero take-downs, Forever.**
+
+A complete full discography of cinematic, film-ready music by composer **Isaac Haines**. Perfect for filmmakers, content creators, and video producers who need high-quality background music with zero copyright claims and no take-downs — ever.
+
+- ✅ Full discography in one purchase
+- ✅ Zero copyright claims
+- ✅ Zero take-downs — guaranteed forever
+- ✅ Ideal for YouTube, film, ads, and commercial content
+
+**[→ Get PR001 — FULL DISCOGRAPHY on Gumroad](https://isaachaines.gumroad.com/l/vxmswi?a=330071315)**
+
+---
+
+> 💡 *More premium products coming soon. This section is updated regularly.*
 
 ---
 
@@ -622,6 +647,7 @@ This repository is licensed under [CC0 1.0 Universal](LICENSE) (Public Domain). 
 
 ### 💎 Premium
 - **[350+ SUNO AI PROMPTS PACK (PDF)](https://naqashkhan.gumroad.com/l/sbrxwh)** — Curated, categorized, copy-paste ready prompts pack on Gumroad
+- **[PR001 — FULL DISCOGRAPHY by Isaac Haines](https://isaachaines.gumroad.com/l/vxmswi?a=330071315)** — Film music: zero claims, zero take-downs, forever. [→ View in Marketplace](#-marketplace--premium-music-products)
 
 ### Music Generation Platforms
 - **[Suno AI](https://suno.com)** - Text-to-music platform (where these prompts work)

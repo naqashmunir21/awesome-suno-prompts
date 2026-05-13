@@ -31,6 +31,15 @@ This repo is one piece of a larger product ecosystem:
 |---------|-----|-------------|
 | **350+ SUNO AI PROMPTS PACK** | https://naqashkhan.gumroad.com/l/sbrxwh | Gumroad PDF — battle-tested prompts curated across all major genres, production styles, and moods. Copy-paste ready. |
 
+### Marketplace — Affiliate Products
+The `README.md` includes a **Marketplace** section featuring curated third-party premium products linked with our affiliate parameter (`?a=330071315`). Affiliate sales generate revenue for this project.
+
+| ID | Title | Author | Affiliate Link |
+|----|-------|--------|----------------|
+| PR001 | FULL DISCOGRAPHY | Isaac Haines | https://isaachaines.gumroad.com/l/vxmswi?a=330071315 |
+
+> To add a new product: add a row to this table and add a corresponding card to the `## 🛒 Marketplace` section in `README.md` following the existing card format.
+
 ### Community
 - **Discord:** https://discord.gg/d7RKGpTbwV
 - **Twitter:** https://twitter.com/songaifarm
