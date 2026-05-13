@@ -122,7 +122,7 @@ A complete full discography of cinematic, film-ready music by composer **Isaac H
 - ✅ Zero take-downs — guaranteed forever
 - ✅ Ideal for YouTube, film, ads, and commercial content
 
-**[→ Get PR001 - Full Discography on Gumroad](https://isaachaines.gumroad.com/l/vxmswi?a=330071315)**
+**[→ Get PR001 — FULL DISCOGRAPHY on Gumroad](https://isaachaines.gumroad.com/l/vxmswi?a=330071315)**
 
 ---
 
