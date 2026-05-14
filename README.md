@@ -122,7 +122,7 @@ A complete full discography of cinematic, film-ready music by composer **Isaac H
 - ✅ Zero take-downs — guaranteed forever
 - ✅ Ideal for YouTube, film, ads, and commercial content
 
-**[→ Get PR001 — FULL DISCOGRAPHY on Gumroad](https://isaachaines.gumroad.com/l/vxmswi?a=330071315)**
+**[→ Get PR001 — FULL DISCOGRAPHY on Gumroad](https://bit.ly/4dHE7l1)**
 
 ---
 
@@ -647,7 +647,7 @@ This repository is licensed under [CC0 1.0 Universal](LICENSE) (Public Domain). 
 
 ### 💎 Premium
 - **[350+ SUNO AI PROMPTS PACK (PDF)](https://naqashkhan.gumroad.com/l/sbrxwh)** — Curated, categorized, copy-paste ready prompts pack on Gumroad
-- **[PR001 — FULL DISCOGRAPHY by Isaac Haines](https://isaachaines.gumroad.com/l/vxmswi?a=330071315)** — Film music: zero claims, zero take-downs, forever. [→ View in Marketplace](#-marketplace--premium-music-products)
+- **[PR001 — FULL DISCOGRAPHY by Isaac Haines](https://bit.ly/4dHE7l1)** — Film music: zero claims, zero take-downs, forever. [→ View in Marketplace](#-marketplace--premium-music-products)
 
 ### Music Generation Platforms
 - **[Suno AI](https://suno.com)** - Text-to-music platform (where these prompts work)
