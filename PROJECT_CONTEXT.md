@@ -29,7 +29,28 @@ This repo is one piece of a larger product ecosystem:
 ### Premium Product
 | Product | URL | Description |
 |---------|-----|-------------|
-| **350+ SUNO AI PROMPTS PACK** | https://naqashkhan.gumroad.com/l/sbrxwh | Gumroad PDF — battle-tested prompts curated across all major genres, production styles, and moods. Copy-paste ready. |
+| **350+ SUNO AI PROMPTS PACK** | https://naqashkhan.gumroad.com/l/sbrxwh | 40+ page Gumroad PDF — 350+ copyright-safe, battle-tested Suno style strings organized by Era → Artist → Full Style String. Spans 7 decades (1950s → 2026 Rising Stars). |
+
+#### PDF Product Details (for maintainers & outreach)
+
+**Format:** Every entry uses the `Era → Artist → Full style string` structure — visitors can copy, paste, and generate pro-level tracks in under 20 seconds.
+
+**Era Coverage (confirmed):**
+- **1950s–1960s:** Elvis Presley, Frank Sinatra, The Beatles, The Rolling Stones, Bob Dylan, Jimi Hendrix
+- **1990s:** Notorious B.I.G., Dr. Dre, Snoop Dogg, Missy Elliott, Jay-Z, Beastie Boys, TLC, Boyz II Men
+- **2026 Rising Stars:** JADE, Addison Rae, Tommy Richman, Qing Madi, Nemzzz, Chloe Qisha, Isaiah Falls + Spotify's Artists to Watch 2026
+- **+ 1970s, 1980s, 2000s, 2010s** — 200+ artists total
+
+**2026 Trend Genres Covered:** hyperpop, phonk, afrobeats, darkwave, Brazilian funk, rage, pluggnb
+
+**Key Selling Points (use in all outreach):**
+1. Naming artists directly = instant Suno copyright block. This pack bypasses that 100% legally with descriptive style phrases.
+2. Suno v5+ needs exact style descriptions — these are battle-tested across 350+ artists.
+3. 200+ brand-new rising artists from Spotify's Artists to Watch 2026 already included.
+4. Copy, paste, generate in under 20 seconds — zero prompt engineering required.
+5. 10× Suno output quality instantly.
+
+**Where to upsell in README:** After Quick Start (callout), primary Tools section (📦 heading), Related Resources Premium section, Support section, footer.
 
 ### Marketplace — Affiliate Products
 The `README.md` includes a **Marketplace** section featuring curated third-party premium products linked with our affiliate parameter (`?a=330071315`). Affiliate sales generate revenue for this project.
@@ -146,4 +167,4 @@ Rules:
 
 ---
 
-*Last updated: April 2026*
+*Last updated: May 2026*

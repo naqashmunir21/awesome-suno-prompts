@@ -59,6 +59,8 @@ Paste the prompt into Suno AI (V4.5 or V5) and let the magic happen!
 
 **Pro Tip:** Not sure how to customize prompts? Use [Song AI Farm's free generator](https://www.songaifarm.com) - it handles all the technical details automatically.
 
+> 💎 **Want 350+ pre-built artist style strings ready to paste?** The [350+ Suno AI Prompts Pack](https://naqashkhan.gumroad.com/l/sbrxwh) covers every era from the 1950s to 2026's rising stars — copyright-safe, organized by `Era → Artist → Style String`, and ready in under 20 seconds.
+
 ---
 
 ## 🛠️ Song AI Farm Tools — Go Further Faster
@@ -98,11 +100,55 @@ The full-featured AI lyrics generator. Pick genre, mood, language, and theme —
 ---
 
 ### 📦 350+ Suno AI Prompts Pack *(Premium PDF)*
-> **Want the best prompts curated, categorized, and ready to copy-paste? Grab the pack.**
 
-The official **350+ SUNO AI PROMPTS PACK** on Gumroad — a premium PDF with battle-tested prompts across every major genre, production style, and mood. Perfect for creators who want results without the trial-and-error.
+> **The most complete, up-to-date, and battle-tested Suno AI prompt collection ever released — 350+ copyright-safe prompts organized by era, artist, and style. Copy. Paste. Generate pro-level tracks in under 20 seconds.**
 
-**[→ Get the 350+ Prompts Pack on Gumroad](https://naqashkhan.gumroad.com/l/sbrxwh)**
+**[→ Get the 350+ Prompts Pack on Gumroad ↗](https://naqashkhan.gumroad.com/l/sbrxwh)**
+
+#### 🚨 Why You Need This in 2026
+
+- **Suno v5+ is smarter than ever — but it still needs exact style descriptions** to sound like real artists. Vague prompts produce generic output.
+- **Naming artists directly = instant copyright block.** These prompts use proven descriptive phrases that capture every artist's sonic DNA and bypass Suno's restrictions **100% legally**.
+- **All 2026 trends are built in** — hyperpop, phonk, afrobeats, darkwave, Brazilian funk, rage, pluggnb, and the hottest rising TikTok sounds — all with fresh, tested prompts.
+- **200+ brand-new rising artists added** — JADE, Addison Rae, Tommy Richman, Qing Madi, Nemzzz, Chloe Qisha, and dozens more from Spotify's Artists to Watch in 2026.
+- **Organized exactly like the pros use it:** `Era → Artist → Full style string` — copy, paste, generate in **under 20 seconds**.
+
+#### 🎯 Who This Pack Is For
+
+- 🎛️ **Music producers** tired of typing random prompts for hours
+- 📱 **TikTok / YouTube creators** hunting viral-ready instrumentals
+- 🎸 **Bedroom artists** who want Green Day energy or Sabrina Carpenter sparkle — without the lawsuit
+- 🔊 **Beat makers** chasing 2026's hottest sounds: afrobeats, phonk, hyperpop, rage, pluggnb
+- ⚡ **Anyone** who wants to **10× their Suno output quality** — instantly
+
+#### 📖 What's Inside — Era Coverage
+
+Structured as **`Era → Artist → Full Style String`**, spanning 7 decades of music:
+
+| Era | Artists Covered |
+|-----|----------------|
+| **1950s–1960s** | Elvis Presley, Frank Sinatra, The Beatles, The Rolling Stones, Bob Dylan, Jimi Hendrix |
+| **1990s** | Notorious B.I.G., Dr. Dre, Snoop Dogg, Missy Elliott, Jay-Z, Beastie Boys, TLC, Boyz II Men |
+| **⭐ 2026 Rising Stars** | JADE, Addison Rae, Tommy Richman, Qing Madi, Nemzzz, Chloe Qisha, Isaiah Falls |
+| **+ 4 more decades** | 1970s, 1980s, 2000s & 2010s — 200+ artists total, all copyright-safe |
+
+*40+ pages · 350+ prompts · 100% copyright-safe · 0 wasted credits*
+
+#### 🔍 Sample Style Strings (straight from the pack)
+
+Every entry is a ready-to-paste Suno style string — no guessing, no artist-name copyright flags:
+
+| Artist | Ready-to-Paste Style String |
+|--------|-----------------------------|
+| **Elvis Presley** | `50s rock, hero theme, upbeat male vocals, swinging rhythm, energetic swing, rockabilly twang` |
+| **The Rolling Stones** | `rock, blues rock, classic swagger, raspy male vocals, gritty riffs, raw attitude` |
+| **Dr. Dre** | `G-funk, slick production, 90s West Coast, deep bass, iconic chill energy, chronic synths` |
+| **JADE** | `pop, dreamy ethereal, harmonious female vocals, fame-gun intensity, house-infused hooks, unconditional shine` |
+| **Tommy Richman** | `RnB, funky soulful, charismatic male vocals, viral grooves, Whitney-inspired falsetto, million dollar baby` |
+
+*These are 5 of 350+. Every artist. Every era. Every vibe.*
+
+**[→ Get the Full 350+ Prompts Pack — Gumroad ↗](https://naqashkhan.gumroad.com/l/sbrxwh)**
 
 ---
 
@@ -646,7 +692,11 @@ This repository is licensed under [CC0 1.0 Universal](LICENSE) (Public Domain). 
 | **Prompt Generator** | Auto-generate optimized Suno prompts | [songaifarm.com](https://www.songaifarm.com) |
 
 ### 💎 Premium
-- **[350+ SUNO AI PROMPTS PACK (PDF)](https://naqashkhan.gumroad.com/l/sbrxwh)** — Curated, categorized, copy-paste ready prompts pack on Gumroad
+
+**[350+ SUNO AI PROMPTS PACK (PDF)](https://naqashkhan.gumroad.com/l/sbrxwh)** — A 40+ page Gumroad PDF with 350+ copyright-safe, battle-tested Suno style strings organized by **`Era → Artist → Full Style String`**. Spans 7 decades (1950s → 2026 Rising Stars). Covers 2026 trend sounds — phonk, afrobeats, hyperpop, pluggnb, darkwave — plus 200+ artists from Spotify's Artists to Watch 2026. No trial-and-error. No copyright flags. Just copy, paste, generate.
+
+**[→ Get the Pack on Gumroad ↗](https://naqashkhan.gumroad.com/l/sbrxwh)**
+
 - **[PR001 — FULL DISCOGRAPHY by Isaac Haines](https://bit.ly/4dHE7l1)** — Film music: zero claims, zero take-downs, forever. [→ View in Marketplace](#-marketplace--premium-music-products)
 
 ### Music Generation Platforms
