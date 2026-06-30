@@ -756,6 +756,16 @@ Tip: Use the drafts in `discussions/` as the initial pinned posts so contributor
 - **Updated weekly** with new prompts
 - **100% free** and open source
 
+## ⭐ Star History
+
+<a href="https://www.star-history.com/?repos=naqashmunir21%2Fawesome-suno-prompts&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=naqashmunir21/awesome-suno-prompts&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=naqashmunir21/awesome-suno-prompts&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=naqashmunir21/awesome-suno-prompts&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ---
 
 ## 🙏 Acknowledgments
