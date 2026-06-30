@@ -758,7 +758,7 @@ Tip: Use the drafts in `discussions/` as the initial pinned posts so contributor
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=naqashmunir21%2Fawesome-suno-prompts&type=date&legend=top-left">
+<a href="https://www.star-history.com/">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=naqashmunir21/awesome-suno-prompts&type=date&theme=dark&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=naqashmunir21/awesome-suno-prompts&type=date&legend=top-left" />
