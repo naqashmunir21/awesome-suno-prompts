@@ -11,8 +11,7 @@
     "bpm": 140,
     "key": "D Minor",
     "tags": ["gym", "viral", "30s-loop", "tiktok", "drift", "edit", "workout"],
-    "source": "prompts/phonk.md",
-    "exampleUrl": "https://suno.com/song/example-drift-phonk"
+    "source": "prompts/phonk.md"
   },
   {
     "id": "aggressive-phonk-01",
@@ -54,8 +53,7 @@
     "bpm": 140,
     "key": "E Minor",
     "tags": ["gym", "viral", "mexican", "tumbados", "peso-pluma", "workout"],
-    "source": "prompts/regional-mexican.md",
-    "exampleUrl": "https://suno.com/song/example-corridos-tumbados"
+    "source": "prompts/regional-mexican.md"
   },
   {
     "id": "corrido-phonk-01",
@@ -69,8 +67,7 @@
     "bpm": 140,
     "key": "D Minor",
     "tags": ["gym", "viral", "crossover", "phonk", "corridos", "hybrid"],
-    "source": "prompts/regional-mexican.md",
-    "exampleUrl": "https://suno.com/song/example-corrido-phonk"
+    "source": "prompts/regional-mexican.md"
   },
   {
     "id": "fuerza-regida-style-01",
@@ -98,8 +95,7 @@
     "bpm": 140,
     "key": "D Minor",
     "tags": ["gym", "viral", "crossover", "phonk", "jersey", "edit"],
-    "source": "prompts/jersey-club.md",
-    "exampleUrl": "https://suno.com/song/example-jersey-phonk"
+    "source": "prompts/jersey-club.md"
   },
   {
     "id": "trap-banger-01",
@@ -113,8 +109,7 @@
     "bpm": 75,
     "key": "F Minor",
     "tags": ["gym", "trap", "aggressive", "808", "workout"],
-    "source": "prompts/hip-hop.md",
-    "exampleUrl": "https://suno.com/song/example-trap-banger"
+    "source": "prompts/hip-hop.md"
   },
   {
     "id": "rock-anthem-01",
@@ -128,8 +123,7 @@
     "bpm": 140,
     "key": "E Minor",
     "tags": ["gym", "rock", "anthem", "motivation", "pump-up", "stadium"],
-    "source": "prompts/rock.md",
-    "exampleUrl": "https://suno.com/song/example-rock-anthem"
+    "source": "prompts/rock.md"
   },
   {
     "id": "edm-festival-01",
@@ -143,7 +137,6 @@
     "bpm": 132,
     "key": "F Minor",
     "tags": ["gym", "cardio", "festival", "edm", "techno", "running"],
-    "source": "prompts/edm.md",
-    "exampleUrl": "https://suno.com/song/example-edm-festival"
+    "source": "prompts/edm.md"
   }
 ]

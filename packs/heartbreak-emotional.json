@@ -11,8 +11,7 @@
     "bpm": 70,
     "key": "D Minor",
     "tags": ["heartbreak", "sad", "emotional", "late-night", "intimate", "sierreño"],
-    "source": "prompts/regional-mexican.md",
-    "exampleUrl": "https://suno.com/song/example-sad-sierreno"
+    "source": "prompts/regional-mexican.md"
   },
   {
     "id": "modern-sad-sierreno-01",
@@ -40,8 +39,7 @@
     "bpm": 140,
     "key": "A Minor",
     "tags": ["emotional", "melodic", "sad", "contrast", "release", "phonk"],
-    "source": "prompts/phonk.md",
-    "exampleUrl": "https://suno.com/song/example-melodic-drift"
+    "source": "prompts/phonk.md"
   },
   {
     "id": "chill-phonk-01",
@@ -69,8 +67,7 @@
     "bpm": 72,
     "key": "G Major",
     "tags": ["heartbreak", "emotional", "ballad", "piano", "orchestra"],
-    "source": "prompts/pop.md",
-    "exampleUrl": "https://suno.com/song/example-pop-ballad"
+    "source": "prompts/pop.md"
   },
   {
     "id": "rnb-slow-jam-01",

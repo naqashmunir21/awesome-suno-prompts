@@ -48,8 +48,7 @@ Each prompt object follows this structure:
   "bpm": 140,
   "key": "D Minor",
   "tags": ["gym", "viral", "30s-loop", "tiktok"],
-  "source": "README | prompts/phonk.md | community-contribution",
-  "exampleUrl": "https://suno.com/song/example-id (if available)"
+"source": "README | prompts/phonk.md | community-contribution"
 }
 ```
 
@@ -138,3 +137,4 @@ Found a prompt that should be in a pack?
 ---
 
 *Part of the [Awesome Suno Prompts](../README.md) ecosystem — Made with 💚 by [Song AI Farm](https://www.songaifarm.com)*
+

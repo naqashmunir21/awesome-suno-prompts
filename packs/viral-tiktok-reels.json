@@ -11,8 +11,7 @@
     "bpm": 140,
     "key": "D Minor",
     "tags": ["gym", "viral", "30s-loop", "tiktok", "drift", "edit"],
-    "source": "prompts/phonk.md",
-    "exampleUrl": "https://suno.com/song/example-drift-phonk"
+    "source": "prompts/phonk.md"
   },
   {
     "id": "afro-phonk-01",
@@ -26,8 +25,7 @@
     "bpm": 140,
     "key": "A Minor (Dorian)",
     "tags": ["gym", "viral", "crossover", "summer", "afrobeats", "phonk"],
-    "source": "prompts/afrobeats.md",
-    "exampleUrl": "https://suno.com/song/example-afro-phonk"
+    "source": "prompts/afrobeats.md"
   },
   {
     "id": "corridos-tumbados-01",
@@ -41,8 +39,7 @@
     "bpm": 140,
     "key": "E Minor",
     "tags": ["gym", "viral", "mexican", "tumbados", "peso-pluma"],
-    "source": "prompts/regional-mexican.md",
-    "exampleUrl": "https://suno.com/song/example-corridos-tumbados"
+    "source": "prompts/regional-mexican.md"
   },
   {
     "id": "corrido-phonk-01",
@@ -56,8 +53,7 @@
     "bpm": 140,
     "key": "D Minor",
     "tags": ["gym", "viral", "crossover", "phonk", "corridos"],
-    "source": "prompts/regional-mexican.md",
-    "exampleUrl": "https://suno.com/song/example-corrido-phonk"
+    "source": "prompts/regional-mexican.md"
   },
   {
     "id": "jersey-club-viral-01",
@@ -71,8 +67,7 @@
     "bpm": 135,
     "key": "C Major",
     "tags": ["dance", "viral", "30s-loop", "tiktok", "challenge", "jersey"],
-    "source": "prompts/jersey-club.md",
-    "exampleUrl": "https://suno.com/song/example-jersey-viral"
+    "source": "prompts/jersey-club.md"
   },
   {
     "id": "kpop-jersey-01",
@@ -86,8 +81,7 @@
     "bpm": 135,
     "key": "C# Minor",
     "tags": ["dance", "viral", "kpop", "jersey", "crossover", "challenge"],
-    "source": "prompts/k-pop.md",
-    "exampleUrl": "https://suno.com/song/example-jersey-kpop"
+    "source": "prompts/k-pop.md"
   },
   {
     "id": "amapiano-anthem-01",
@@ -101,8 +95,7 @@
     "bpm": 115,
     "key": "A Minor",
     "tags": ["dance", "viral", "summer", "amapiano", "log-drum"],
-    "source": "prompts/afrobeats.md",
-    "exampleUrl": "https://suno.com/song/example-amapiano-anthem"
+    "source": "prompts/afrobeats.md"
   },
   {
     "id": "kpop-hyperpop-01",
@@ -116,8 +109,7 @@
     "bpm": 150,
     "key": "A Minor",
     "tags": ["viral", "kpop", "hyperpop", "crossover", "maximalist"],
-    "source": "prompts/k-pop.md",
-    "exampleUrl": "https://suno.com/song/example-kpop-hyperpop"
+    "source": "prompts/k-pop.md"
   },
   {
     "id": "jersey-phonk-01",
@@ -131,8 +123,7 @@
     "bpm": 140,
     "key": "D Minor",
     "tags": ["gym", "viral", "crossover", "phonk", "jersey"],
-    "source": "prompts/jersey-club.md",
-    "exampleUrl": "https://suno.com/song/example-jersey-phonk"
+    "source": "prompts/jersey-club.md"
   },
   {
     "id": "afro-jersey-01",
@@ -146,7 +137,6 @@
     "bpm": 135,
     "key": "A Major",
     "tags": ["summer", "viral", "crossover", "afrobeats", "jersey"],
-    "source": "prompts/afrobeats.md",
-    "exampleUrl": "https://suno.com/song/example-afro-jersey"
+    "source": "prompts/afrobeats.md"
   }
 ]

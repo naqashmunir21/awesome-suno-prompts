@@ -11,8 +11,7 @@
     "bpm": 140,
     "key": "A Minor (Dorian)",
     "tags": ["gym", "viral", "crossover", "summer", "afrobeats", "phonk", "fusion"],
-    "source": "prompts/afrobeats.md",
-    "exampleUrl": "https://suno.com/song/example-afro-phonk"
+    "source": "prompts/afrobeats.md"
   },
   {
     "id": "corrido-phonk-01",
@@ -26,8 +25,7 @@
     "bpm": 140,
     "key": "D Minor",
     "tags": ["gym", "viral", "crossover", "phonk", "corridos", "mexican", "hybrid"],
-    "source": "prompts/regional-mexican.md",
-    "exampleUrl": "https://suno.com/song/example-corrido-phonk"
+    "source": "prompts/regional-mexican.md"
   },
   {
     "id": "kpop-jersey-01",
@@ -41,8 +39,7 @@
     "bpm": 135,
     "key": "C# Minor",
     "tags": ["dance", "viral", "kpop", "jersey", "crossover", "challenge", "choreography"],
-    "source": "prompts/k-pop.md",
-    "exampleUrl": "https://suno.com/song/example-jersey-kpop"
+    "source": "prompts/k-pop.md"
   },
   {
     "id": "kpop-hyperpop-01",
@@ -56,8 +53,7 @@
     "bpm": 150,
     "key": "A Minor",
     "tags": ["viral", "kpop", "hyperpop", "crossover", "maximalist", "algorithm"],
-    "source": "prompts/k-pop.md",
-    "exampleUrl": "https://suno.com/song/example-kpop-hyperpop"
+    "source": "prompts/k-pop.md"
   },
   {
     "id": "afro-jersey-01",
@@ -71,8 +67,7 @@
     "bpm": 135,
     "key": "A Major",
     "tags": ["summer", "viral", "crossover", "afrobeats", "jersey", "global-south"],
-    "source": "prompts/afrobeats.md",
-    "exampleUrl": "https://suno.com/song/example-afro-jersey"
+    "source": "prompts/afrobeats.md"
   },
   {
     "id": "jersey-phonk-01",
