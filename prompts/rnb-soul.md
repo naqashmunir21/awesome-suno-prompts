@@ -2,7 +2,7 @@
 
 Professional Suno AI prompts for R&B and soul music - from smooth classics to modern trap-soul.
 
-[← Back to Main Collection](../README.md) | [Generate Custom R&B Prompts →](https://www.songaifarm.com?genre=rnb)
+[← Back to Main Collection](../README.md) | [Generate Custom R&B Prompts →](https://www.songaifarm.com/generator?genre=rnb)
 
 ---
 
@@ -288,6 +288,7 @@ Have a smooth R&B prompt? [Contribute to this collection](../CONTRIBUTING.md)!
 
 ---
 
-**[🎨 Generate Custom R&B Prompts →](https://www.songaifarm.com?genre=rnb)**
+**[🎨 Generate Custom R&B Prompts →](https://www.songaifarm.com/generator?genre=rnb)**
 
 *Made with 💚 by [Song AI Farm](https://www.songaifarm.com)*
+

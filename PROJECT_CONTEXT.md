@@ -120,7 +120,7 @@ Rules:
 - Tested on Suno V4.5 or V5 before submission
 - Specific instrumentation — never vague ("guitar" → "fingerpicked clean acoustic")
 - Include BPM and Key where possible
-- Each genre section links to `[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=X&mood=Y)`
+- Each genre section links to `[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=X&mood=Y)`
 
 ---
 
@@ -168,3 +168,5 @@ Rules:
 ---
 
 *Last updated: May 2026*
+
+

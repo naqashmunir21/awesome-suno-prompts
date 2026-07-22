@@ -2,7 +2,7 @@
 
 50+ professional Suno AI prompts for K-Pop (4th/5th gen), Hyperpop, and K-Pop hybrids. The Gen Z maximalist sound dominating US TikTok/Reels (2024-2025).
 
-**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com?genre=k-pop) auto-generate the perfect K-Pop prompt for your vision.
+**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com/generator?genre=k-pop) auto-generate the perfect K-Pop prompt for your vision.
 
 ---
 
@@ -28,7 +28,7 @@ clean maximalist production, plural vocal layers (5+), BPM: 120→90, Key: Bb Ma
 **Suno Version:** V5  
 **Energy:** Medium (5/10) → Low at bridge  
 **Notable Feature:** The signature tempo drop at bridge  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=k-pop&mood=y2k)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=k-pop&mood=y2k)
 
 ---
 
@@ -102,7 +102,7 @@ English commands ("get loud", "break it"), BPM: 140, Key: D Minor
 **Use Case:** Gym edits, aggressive content, hype moments  
 **Suno Version:** V5  
 **Energy:** Extreme (10/10)  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=k-pop&mood=aggressive)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=k-pop&mood=aggressive)
 
 ---
 
@@ -177,7 +177,7 @@ Y2K internet aesthetic, BPM: 165, Key: C Major
 **Use Case:** Hyperpop edits, chaotic energy, internet culture content  
 **Suno Version:** V5  
 **Energy:** Extreme (10/10)  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=hyperpop)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=hyperpop)
 
 ---
 
@@ -426,7 +426,7 @@ no minor-only for girl groups (need major chorus contrast)
 - [Phonk Prompts →](phonk.md) — For K-Phonk fusion
 - [Jersey Club →](jersey-club.md) — For K-Pop Jersey fusion
 - [Afrobeats Prompts →](afrobeats.md) — For Afro-K-Pop fusion
-- [Song AI Farm Generator →](https://www.songaifarm.com?genre=k-pop) — Auto-generates K-Pop structures
+- [Song AI Farm Generator →](https://www.songaifarm.com/generator?genre=k-pop) — Auto-generates K-Pop structures
 - [Song DNA Analyzer →](https://www.songaifarm.com/song-analyzer) — Reverse-engineer any K-Pop track
 
 ---

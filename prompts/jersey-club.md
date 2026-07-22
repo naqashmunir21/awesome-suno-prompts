@@ -2,7 +2,7 @@
 
 40+ professional Suno AI prompts for Jersey Club, Baltimore Club, and Newark/Philly variants. The #1 dance challenge genre on US TikTok/Reels (2024-2025).
 
-**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com?genre=jersey-club) auto-generate the perfect Jersey Club prompt for your vision.
+**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com/generator?genre=jersey-club) auto-generate the perfect Jersey Club prompt for your vision.
 
 ---
 
@@ -29,7 +29,7 @@ BPM: 135, Key: F Minor
 **Suno Version:** V5  
 **Energy:** Extreme (10/10)  
 **Notable Feature:** The defining stutter kick pattern  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=jersey-club&mood=classic)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=jersey-club&mood=classic)
 
 ---
 
@@ -133,7 +133,7 @@ BPM: 135, Key: C Major
 **Suno Version:** V5  
 **Energy:** Extreme (10/10)  
 **Notable Feature:** Mathematically loopable 30s structure  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=jersey-club&mood=viral)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=jersey-club&mood=viral)
 
 ---
 
@@ -387,7 +387,7 @@ no clean unmixed sound (sidechain IS the mix)
 - [Phonk Prompts →](phonk.md) — For Jersey Phonk fusion
 - [Afrobeats Prompts →](afrobeats.md) — For Afro-Jersey fusion
 - [K-Pop Prompts →](k-pop.md) — For K-Pop Jersey fusion
-- [Song AI Farm Generator →](https://www.songaifarm.com?genre=jersey-club) — Auto-generates Jersey structures
+- [Song AI Farm Generator →](https://www.songaifarm.com/generator?genre=jersey-club) — Auto-generates Jersey structures
 - [Song DNA Analyzer →](https://www.songaifarm.com/song-analyzer) — Reverse-engineer any Jersey track
 
 ---

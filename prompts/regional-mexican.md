@@ -2,7 +2,7 @@
 
 50+ professional Suno AI prompts for Corridos Tumbados, Regional Mexican, Sad Sierreño, and Latin Urban crossovers. The fastest-growing Latin genre in the US (2024-2025), dominating TikTok, Spotify Viral 50, and Billboard Hot Latin Songs.
 
-**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com?genre=regional-mexican) auto-generate the perfect Corridos Tumbados prompt for your vision.
+**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com/generator?genre=regional-mexican) auto-generate the perfect Corridos Tumbados prompt for your vision.
 
 ---
 
@@ -30,7 +30,7 @@ Spanglish ad-libs, BPM: 140, Key: E Minor
 **Suno Version:** V5  
 **Energy:** High (8/10)  
 **Notable Feature:** Requinto tremolo + tuba + trap hats = the formula  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=regional-mexican&mood=tumbados)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=regional-mexican&mood=tumbados)
 
 ---
 
@@ -360,7 +360,7 @@ no synth leads (unless fusion), no quantized-perfect timing (human feel)
 - [Viral Hits: Corrido Phonk →](../examples/viral-hits.md) — Deconstructed viral fusions
 - [Phonk Prompts →](phonk.md) — For corrido phonk fusion elements
 - [Afrobeats Prompts →](afrobeats.md) — For Afro-corridos fusion elements
-- [Song AI Farm Generator →](https://www.songaifarm.com?genre=regional-mexican) — Auto-generates tumbados patterns
+- [Song AI Farm Generator →](https://www.songaifarm.com/generator?genre=regional-mexican) — Auto-generates tumbados patterns
 - [Song DNA Analyzer →](https://www.songaifarm.com/song-analyzer) — Reverse-engineer any regional Mexican track
 
 ---

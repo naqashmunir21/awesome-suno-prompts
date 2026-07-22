@@ -19,3 +19,4 @@ Production cues: tight synth bass, four-on-the-floor drums, lush vocal harmonies
 ```
 
 Contributors: please reply with one or more prompt variations and mark which one worked best for you.
+

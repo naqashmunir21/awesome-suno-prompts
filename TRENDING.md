@@ -111,3 +111,4 @@ BPM: [70-95], Key: [Minor]
 ---
 
 *Part of the [Awesome Suno Prompts](../README.md) ecosystem — Made with 💚 by [Song AI Farm](https://www.songaifarm.com)*
+

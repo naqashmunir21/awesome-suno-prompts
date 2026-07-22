@@ -2,7 +2,7 @@
 
 50+ professional Suno AI prompts for Phonk, Drift Phonk, Gym Phonk, and Phonk hybrids. The #1 gym/editing music genre on US TikTok/Reels (2024-2025).
 
-**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com?genre=phonk) auto-generate the perfect Phonk prompt for your vision.
+**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com/generator?genre=phonk) auto-generate the perfect Phonk prompt for your vision.
 
 ---
 
@@ -28,7 +28,7 @@ BPM: 70 (half-time), Key: D Minor
 **Use Case:** Authentic revival, horrorcore vibes, purist playlists  
 **Suno Version:** V4.5 (better lo-fi texture)  
 **Energy:** Medium-High (7/10)  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=phonk&mood=dark)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=phonk&mood=dark)
 
 ---
 
@@ -75,7 +75,7 @@ BPM: 140, Key: D Minor
 **Suno Version:** V5  
 **Energy:** Extreme (10/10)  
 **Notable Feature:** Functional gym edit structure  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=phonk&mood=energetic)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=phonk&mood=energetic)
 
 ---
 
@@ -232,7 +232,7 @@ Kabza De Small x Kaito Shoma collision, BPM: 140, Key: D Minor
 **Use Case:** Cross-genre viral, Afrobeats + gym audiences, unique sound  
 **Suno Version:** V5  
 **Energy:** Extreme (10/10)  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=phonk&mood=afro)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=phonk&mood=afro)
 
 ---
 
@@ -389,7 +389,7 @@ no happy melodies (unless melodic subgenre), no acoustic instruments (unless hyb
 - [Viral Hits: Drift Phonk →](../examples/viral-hits.md#viral-hit-7-drift-phonk)
 - [Viral Hits: Afro-Phonk →](../examples/viral-hits.md#viral-hit-5-afrobeats--phonk-afro-phonk)
 - [Afrobeats Prompts →](afrobeats.md) — For Afro-Phonk fusion elements
-- [Song AI Farm Generator →](https://www.songaifarm.com?genre=phonk) — Auto-generates Phonk patterns
+- [Song AI Farm Generator →](https://www.songaifarm.com/generator?genre=phonk) — Auto-generates Phonk patterns
 - [Song DNA Analyzer →](https://www.songaifarm.com/song-analyzer) — Reverse-engineer any Phonk track
 
 ---

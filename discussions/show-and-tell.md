@@ -9,3 +9,4 @@ Share your creations made with prompts from this repo. When posting, include:
 - Optional: before/after prompt if you optimized it
 
 This thread highlights community successes — feel free to ask for feedback and tips.
+

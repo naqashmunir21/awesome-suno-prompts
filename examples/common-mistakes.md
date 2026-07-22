@@ -8,3 +8,4 @@ Example:
 - After: "A melancholic piano ballad, tempo 70 BPM, intimate vocal, lyrics about lost summer nights, cinematic reverb"
 
 Add more before/after pairs by opening a PR.
+

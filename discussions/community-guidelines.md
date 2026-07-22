@@ -9,3 +9,4 @@ Welcome — please follow these simple guidelines to keep the community construc
 - When posting audio or media, ensure you have rights to share it.
 
 Moderation: maintainers may remove content that violates these rules. If you have a problem, contact the maintainers via an issue or Discord.
+

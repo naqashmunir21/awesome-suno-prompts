@@ -2,7 +2,7 @@
 
 Professional Suno AI prompts for hip-hop and rap - from trap bangers to conscious rap.
 
-[← Back to Main Collection](../README.md) | [Generate Custom Hip-Hop Prompts →](https://www.songaifarm.com?genre=hip-hop)
+[← Back to Main Collection](../README.md) | [Generate Custom Hip-Hop Prompts →](https://www.songaifarm.com/generator?genre=hip-hop)
 
 ---
 
@@ -303,6 +303,7 @@ Got a fire hip-hop prompt? [Contribute to this collection](../CONTRIBUTING.md)!
 
 ---
 
-**[🎨 Generate Custom Hip-Hop Prompts →](https://www.songaifarm.com?genre=hip-hop)**
+**[🎨 Generate Custom Hip-Hop Prompts →](https://www.songaifarm.com/generator?genre=hip-hop)**
 
 *Made with 💚 by [Song AI Farm](https://www.songaifarm.com)*
+

@@ -2,7 +2,7 @@
 
 50+ professional Suno AI prompts for Afrobeats, Amapiano, Afro-house, Afro-fusion, and the fastest-growing genres on US TikTok/Reels (2024-2025).
 
-**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com?genre=afrobeats) auto-generate the perfect Afrobeats prompt for your vision.
+**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com/generator?genre=afrobeats) auto-generate the perfect Afrobeats prompt for your vision.
 
 ---
 
@@ -29,7 +29,7 @@ BPM: 115, Key: A Minor
 **Suno Version:** V5  
 **Energy:** Medium-High (7/10)  
 **Notable Feature:** The defining 3-step log drum pattern  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=afrobeats&mood=amapiano)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=afrobeats&mood=amapiano)
 
 ---
 
@@ -117,7 +117,7 @@ BPM: 108, Key: G Major
 **Use Case:** Mainstream radio, global charts, brand campaigns  
 **Suno Version:** V5  
 **Energy:** High (8/10)  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=afrobeats&mood=upbeat)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=afrobeats&mood=upbeat)
 
 ---
 
@@ -218,7 +218,7 @@ BPM: 122, Key: A Minor
 **Use Case:** Festival sets, club nights, sunrise sets  
 **Suno Version:** V5  
 **Energy:** High (8/10)  
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=afrobeats&mood=energetic)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=afrobeats&mood=energetic)
 
 ---
 
@@ -446,7 +446,7 @@ no quantized-perfect timing (humanize percussion), no thin-sounding bass
 - [Viral Hits: Amapiano →](../examples/viral-hits.md#viral-hit-3-amapiano-sunset)
 - [Viral Hits: Afro-Phonk →](../examples/viral-hits.md#viral-hit-5-afrobeats--phonk-afro-phonk)
 - [Viral Hits: Afro-Hyper →](../examples/viral-hits.md#viral-hit-5-afrobeats--phonk-afro-phonk)
-- [Song AI Farm Generator →](https://www.songaifarm.com?genre=afrobeats) — Auto-generates these patterns
+- [Song AI Farm Generator →](https://www.songaifarm.com/generator?genre=afrobeats) — Auto-generates these patterns
 - [Song DNA Analyzer →](https://www.songaifarm.com/song-analyzer) — Reverse-engineer any Afrobeats track
 
 ---

@@ -2,7 +2,7 @@
 
 Professional Suno AI prompts for electronic dance music - from festival bangers to underground techno.
 
-[← Back to Main Collection](../README.md) | [Generate Custom EDM Prompts →](https://www.songaifarm.com?genre=edm)
+[← Back to Main Collection](../README.md) | [Generate Custom EDM Prompts →](https://www.songaifarm.com/generator?genre=edm)
 
 ---
 
@@ -327,6 +327,7 @@ Have a festival-destroying prompt? [Contribute to this collection](../CONTRIBUTI
 
 ---
 
-**[🎨 Generate Custom EDM Prompts →](https://www.songaifarm.com?genre=edm)**
+**[🎨 Generate Custom EDM Prompts →](https://www.songaifarm.com/generator?genre=edm)**
 
 *Made with 💚 by [Song AI Farm](https://www.songaifarm.com)*
+

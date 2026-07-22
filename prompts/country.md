@@ -2,7 +2,7 @@
 
 Professional Suno AI prompts for country music - from modern pop-country to traditional bluegrass.
 
-[← Back to Main Collection](../README.md) | [Generate Custom Country Prompts →](https://www.songaifarm.com?genre=country)
+[← Back to Main Collection](../README.md) | [Generate Custom Country Prompts →](https://www.songaifarm.com/generator?genre=country)
 
 ---
 
@@ -265,6 +265,7 @@ Have an authentic country prompt? [Contribute to this collection](../CONTRIBUTIN
 
 ---
 
-**[🎨 Generate Custom Country Prompts →](https://www.songaifarm.com?genre=country)**
+**[🎨 Generate Custom Country Prompts →](https://www.songaifarm.com/generator?genre=country)**
 
 *Made with 💚 by [Song AI Farm](https://www.songaifarm.com)*
+

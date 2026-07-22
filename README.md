@@ -233,7 +233,7 @@ BPM: 128, Key: C Major
 **Energy:** High (9/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-pop-anthem)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=pop&mood=upbeat)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=pop&mood=upbeat)
 
 ---
 
@@ -262,7 +262,7 @@ BPM: 115, Key: A Minor
 **Suno Version:** V5  
 **Energy:** Medium-Low (4/10)
 
-[📖 **200+ Pop Prompts →**](prompts/pop.md) | [🎨 Auto-generate Pop →](https://www.songaifarm.com?genre=pop)
+[📖 **200+ Pop Prompts →**](prompts/pop.md) | [🎨 Auto-generate Pop →](https://www.songaifarm.com/generator?genre=pop)
 
 ---
 
@@ -280,7 +280,7 @@ BPM: 140, Key: E Minor
 **Energy:** Very High (10/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-rock-anthem)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=rock&mood=energetic)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=rock&mood=energetic)
 
 ---
 
@@ -296,7 +296,7 @@ BPM: 95, Key: D Minor
 **Energy:** High (8/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-grunge)
 
-[📖 **150+ Rock Prompts →**](prompts/rock.md) | [🎨 Auto-generate Rock →](https://www.songaifarm.com?genre=rock)
+[📖 **150+ Rock Prompts →**](prompts/rock.md) | [🎨 Auto-generate Rock →](https://www.songaifarm.com/generator?genre=rock)
 
 ---
 
@@ -314,7 +314,7 @@ BPM: 75, Key: F Minor
 **Energy:** Very High (9/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-trap-banger)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=hip-hop&mood=aggressive)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=hip-hop&mood=aggressive)
 
 ---
 
@@ -330,7 +330,7 @@ BPM: 88, Key: E♭ Major
 **Energy:** Medium (5/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-boom-bap)
 
-[📖 **120+ Hip-Hop Prompts →**](prompts/hip-hop.md) | [🎨 Auto-generate Hip-Hop →](https://www.songaifarm.com?genre=hip-hop)
+[📖 **120+ Hip-Hop Prompts →**](prompts/hip-hop.md) | [🎨 Auto-generate Hip-Hop →](https://www.songaifarm.com/generator?genre=hip-hop)
 
 ---
 
@@ -348,7 +348,7 @@ BPM: 110, Key: G Major
 **Energy:** Medium-High (7/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-country-pop)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=country&mood=uplifting)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=country&mood=uplifting)
 
 ---
 
@@ -363,7 +363,7 @@ BPM: 85, Key: A Major
 **Suno Version:** V4.5  
 **Energy:** Low-Medium (4/10)
 
-[📖 **100+ Country Prompts →**](prompts/country.md) | [🎨 Auto-generate Country →](https://www.songaifarm.com?genre=country)
+[📖 **100+ Country Prompts →**](prompts/country.md) | [🎨 Auto-generate Country →](https://www.songaifarm.com/generator?genre=country)
 
 ---
 
@@ -381,7 +381,7 @@ BPM: 128, Key: C Minor
 **Energy:** Extreme (10/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-edm-festival)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=edm&mood=energetic)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=edm&mood=energetic)
 
 ---
 
@@ -396,7 +396,7 @@ BPM: 124, Key: A Minor
 **Suno Version:** V5  
 **Energy:** High (8/10)
 
-[📖 **130+ EDM Prompts →**](prompts/edm.md) | [🎨 Auto-generate EDM →](https://www.songaifarm.com?genre=edm)
+[📖 **130+ EDM Prompts →**](prompts/edm.md) | [🎨 Auto-generate EDM →](https://www.songaifarm.com/generator?genre=edm)
 
 ---
 
@@ -414,7 +414,7 @@ BPM: 70, Key: D♭ Major
 **Energy:** Low-Medium (3/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-rnb-groove)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=r-b&mood=sultry)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=r-b&mood=sultry)
 
 ---
 
@@ -429,7 +429,7 @@ BPM: 95, Key: F Major
 **Suno Version:** V4.5  
 **Energy:** Medium-High (7/10)
 
-[📖 **80+ R&B/Soul Prompts →**](prompts/rnb-soul.md) | [🎨 Auto-generate R&B →](https://www.songaifarm.com?genre=r-b)
+[📖 **80+ R&B/Soul Prompts →**](prompts/rnb-soul.md) | [🎨 Auto-generate R&B →](https://www.songaifarm.com/generator?genre=r-b)
 
 ---
 
@@ -447,7 +447,7 @@ BPM: 105, Key: E♭ Major
 **Energy:** Low (3/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-indie-dreamy)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=indie&mood=dreamy)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=indie&mood=dreamy)
 
 ---
 
@@ -462,7 +462,7 @@ BPM: 130, Key: B Minor
 **Suno Version:** V4.5 or V5  
 **Energy:** High (8/10)
 
-[📖 **90+ Indie Prompts →**](prompts/indie.md) | [🎨 Auto-generate Indie →](https://www.songaifarm.com?genre=indie)
+[📖 **90+ Indie Prompts →**](prompts/indie.md) | [🎨 Auto-generate Indie →](https://www.songaifarm.com/generator?genre=indie)
 
 ---
 
@@ -480,7 +480,7 @@ BPM: 92, Key: B♭ Major
 **Energy:** Low (2/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-jazz-lounge)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=jazz&mood=smooth)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=jazz&mood=smooth)
 
 ---
 
@@ -495,7 +495,7 @@ BPM: 80, Key: E Blues Scale
 **Suno Version:** V4.5  
 **Energy:** Medium (5/10)
 
-[📖 **60+ Jazz/Blues Prompts →**](prompts/jazz-blues.md) | [🎨 Auto-generate Jazz/Blues →](https://www.songaifarm.com?genre=jazz)
+[📖 **60+ Jazz/Blues Prompts →**](prompts/jazz-blues.md) | [🎨 Auto-generate Jazz/Blues →](https://www.songaifarm.com/generator?genre=jazz)
 
 ---
 
@@ -515,7 +515,7 @@ BPM: 115, Key: A Minor
 **Notable Feature:** The defining 3-step log drum pattern  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-amapiano-anthem)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=afrobeats&mood=amapiano)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=afrobeats&mood=amapiano)
 
 ---
 
@@ -532,7 +532,7 @@ BPM: 108, Key: G Major
 **Energy:** High (8/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-afrobeats-pop)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=afrobeats&mood=upbeat)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=afrobeats&mood=upbeat)
 
 ---
 
@@ -549,7 +549,7 @@ BPM: 140, Key: D Minor
 **Energy:** Extreme (10/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-afro-phonk)
 
-[📖 **50+ Afrobeats & Amapiano Prompts →**](prompts/afrobeats.md) | [🎨 Auto-generate Afrobeats →](https://www.songaifarm.com?genre=afrobeats)
+[📖 **50+ Afrobeats & Amapiano Prompts →**](prompts/afrobeats.md) | [🎨 Auto-generate Afrobeats →](https://www.songaifarm.com/generator?genre=afrobeats)
 
 ---
 
@@ -569,7 +569,7 @@ BPM: 140, Key: D Minor
 **Notable Feature:** The exact cowbell pattern that goes viral  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-drift-phonk)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=phonk&mood=drift)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=phonk&mood=drift)
 
 ---
 
@@ -601,7 +601,7 @@ summer gym crossover, BPM: 140, Key: A Minor (Dorian)
 **Energy:** Extreme (10/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-afro-phonk-2)
 
-[📖 **50+ Phonk & Drift Phonk Prompts →**](prompts/phonk.md) | [🎨 Auto-generate Phonk →](https://www.songaifarm.com?genre=phonk)
+[📖 **50+ Phonk & Drift Phonk Prompts →**](prompts/phonk.md) | [🎨 Auto-generate Phonk →](https://www.songaifarm.com/generator?genre=phonk)
 
 ---
 
@@ -620,7 +620,7 @@ clean maximalist production, plural vocal layers (5+), BPM: 120→90, Key: Bb Ma
 **Notable Feature:** The signature tempo drop at bridge  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-kpop-y2k)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=k-pop&mood=y2k)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=k-pop&mood=y2k)
 
 ---
 
@@ -637,7 +637,7 @@ English commands ("get loud", "break it"), BPM: 140, Key: D Minor
 **Energy:** Extreme (10/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-kpop-noise)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=k-pop&mood=aggressive)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=k-pop&mood=aggressive)
 
 ---
 
@@ -654,7 +654,7 @@ NewJeans meets 100 gecs, viral TikTok sound potential, BPM: 150, Key: A Minor
 **Energy:** Extreme (10/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-kpop-hyperpop)
 
-[📖 **40+ K-Pop Prompts →**](prompts/k-pop.md) | [🎨 Auto-generate K-Pop →](https://www.songaifarm.com?genre=k-pop)
+[📖 **40+ K-Pop Prompts →**](prompts/k-pop.md) | [🎨 Auto-generate K-Pop →](https://www.songaifarm.com/generator?genre=k-pop)
 
 ---
 
@@ -674,7 +674,7 @@ BPM: 135, Key: F Minor
 **Notable Feature:** The defining stutter kick pattern  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-jersey-classic)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=jersey-club&mood=classic)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=jersey-club&mood=classic)
 
 ---
 
@@ -693,7 +693,7 @@ BPM: 135, Key: C Major
 **Notable Feature:** Mathematically loopable 30s structure  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-jersey-viral)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=jersey-club&mood=viral)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=jersey-club&mood=viral)
 
 ---
 
@@ -710,7 +710,7 @@ cross-fandom viral potential, BPM: 135, Key: C# Minor
 **Energy:** Extreme (10/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-jersey-kpop)
 
-[📖 **40+ Jersey Club & Baltimore Club Prompts →**](prompts/jersey-club.md) | [🎨 Auto-generate Jersey Club →](https://www.songaifarm.com?genre=jersey-club)
+[📖 **40+ Jersey Club & Baltimore Club Prompts →**](prompts/jersey-club.md) | [🎨 Auto-generate Jersey Club →](https://www.songaifarm.com/generator?genre=jersey-club)
 
 ---
 
@@ -731,7 +731,7 @@ Spanglish ad-libs, BPM: 140, Key: E Minor
 **Notable Feature:** Requinto tremolo + tuba + trap hats = the formula  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-corridos-tumbados)
 
-[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=regional-mexican&mood=tumbados)
+[🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=regional-mexican&mood=tumbados)
 
 ---
 
@@ -763,7 +763,7 @@ BPM: 140, Key: D Minor
 **Energy:** Extreme (10/10)  
 **Example Song:** [Listen on Suno →](https://suno.com/song/example-corrido-phonk)
 
-[📖 **40+ Regional Mexican & Corridos Tumbados Prompts →**](prompts/regional-mexican.md) | [🎨 Auto-generate Regional Mexican →](https://www.songaifarm.com?genre=regional-mexican)
+[📖 **40+ Regional Mexican & Corridos Tumbados Prompts →**](prompts/regional-mexican.md) | [🎨 Auto-generate Regional Mexican →](https://www.songaifarm.com/generator?genre=regional-mexican)
 
 ---
 
@@ -1142,3 +1142,6 @@ If this repository helped you create amazing music:
 [🐦 Twitter](https://twitter.com/songaifarm) • [💬 Discord](https://discord.gg/d7RKGpTbwV) • [📧 Newsletter](https://www.songaifarm.com/newsletter)
 
 </div>
+
+
+

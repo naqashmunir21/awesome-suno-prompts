@@ -2,7 +2,7 @@
 
 Professional Suno AI prompts for jazz and blues - from smooth jazz to Chicago blues.
 
-[← Back to Main Collection](../README.md) | [Generate Custom Jazz/Blues Prompts →](https://www.songaifarm.com?genre=jazz)
+[← Back to Main Collection](../README.md) | [Generate Custom Jazz/Blues Prompts →](https://www.songaifarm.com/generator?genre=jazz)
 
 ---
 
@@ -333,6 +333,7 @@ Have a sophisticated jazz/blues prompt? [Contribute to this collection](../CONTR
 
 ---
 
-**[🎨 Generate Custom Jazz/Blues Prompts →](https://www.songaifarm.com?genre=jazz)**
+**[🎨 Generate Custom Jazz/Blues Prompts →](https://www.songaifarm.com/generator?genre=jazz)**
 
 *Made with 💚 by [Song AI Farm](https://www.songaifarm.com)*
+

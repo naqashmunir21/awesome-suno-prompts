@@ -2,7 +2,7 @@
 
 Professional Suno AI prompts for rock music - from stadium anthems to garage punk.
 
-[← Back to Main Collection](../README.md) | [Generate Custom Rock Prompts →](https://www.songaifarm.com?genre=rock)
+[← Back to Main Collection](../README.md) | [Generate Custom Rock Prompts →](https://www.songaifarm.com/generator?genre=rock)
 
 ---
 
@@ -326,6 +326,7 @@ Have a killer rock prompt? [Contribute to this collection](../CONTRIBUTING.md)!
 
 ---
 
-**[🎨 Generate Custom Rock Prompts →](https://www.songaifarm.com?genre=rock)**
+**[🎨 Generate Custom Rock Prompts →](https://www.songaifarm.com/generator?genre=rock)**
 
 *Made with 💚 by [Song AI Farm](https://www.songaifarm.com)*
+

@@ -2,7 +2,7 @@
 
 Professional Suno AI prompts for indie and alternative music - from bedroom pop to shoegaze.
 
-[← Back to Main Collection](../README.md) | [Generate Custom Indie Prompts →](https://www.songaifarm.com?genre=indie)
+[← Back to Main Collection](../README.md) | [Generate Custom Indie Prompts →](https://www.songaifarm.com/generator?genre=indie)
 
 ---
 
@@ -335,6 +335,7 @@ Have an authentic indie prompt? [Contribute to this collection](../CONTRIBUTING.
 
 ---
 
-**[🎨 Generate Custom Indie Prompts →](https://www.songaifarm.com?genre=indie)**
+**[🎨 Generate Custom Indie Prompts →](https://www.songaifarm.com/generator?genre=indie)**
 
 *Made with 💚 by [Song AI Farm](https://www.songaifarm.com)*
+

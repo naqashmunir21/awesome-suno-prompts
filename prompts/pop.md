@@ -2,7 +2,7 @@
 
 200+ professional Suno AI prompts for creating chart-ready pop music. From upbeat dance anthems to emotional ballads.
 
-**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com?genre=pop) auto-generate the perfect pop prompt for your vision.
+**Not sure which prompt to use?** Let [Song AI Farm](https://www.songaifarm.com/generator?genre=pop) auto-generate the perfect pop prompt for your vision.
 
 ---
 
@@ -315,7 +315,7 @@ BPM: 170, Key: Chromatic chaos
 
 Want prompts tailored to your specific vision? 
 
-**[Generate Custom Pop Prompts →](https://www.songaifarm.com?genre=pop)**
+**[Generate Custom Pop Prompts →](https://www.songaifarm.com/generator?genre=pop)**
 
 Song AI Farm's AI will create optimized prompts based on:
 - Your target mood/energy
@@ -355,3 +355,4 @@ Song AI Farm's AI will create optimized prompts based on:
 **Contributing:** Have a killer pop prompt? [Submit it here](../CONTRIBUTING.md)
 
 **Made with 💚 by [Song AI Farm](https://www.songaifarm.com)**
+
