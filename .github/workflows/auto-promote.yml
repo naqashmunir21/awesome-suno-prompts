@@ -1,0 +1,159 @@
+name: Auto-Promote New Prompts
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'prompts/**/*.md'
+      - 'README.md'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force run even if no prompt changes'
+        required: false
+        default: false
+
+jobs:
+  detect-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.changes.outputs.has_changes }}
+      new_prompts: ${{ steps.changes.outputs.new_prompts }}
+      genres: ${{ steps.changes.outputs.genres }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Detect new prompt additions
+        id: changes
+        run: |
+          # Get diff of prompt files
+          CHANGED=$(git diff HEAD~1 --name-only -- 'prompts/**/*.md' | grep -E '\.md$' || true)
+          
+          if [ -z "$CHANGED" ] && [ "${{ github.event.inputs.force }}" != "true" ]; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+          
+          # Extract prompt names from new entries (lines starting with ####)
+          PROMPTS=""
+          GENRES=""
+          for file in $CHANGED; do
+            genre=$(basename "$file" .md)
+            GENRES="${GENRES}${genre}, "
+            # Find new #### headings in diff
+            NEW=$(git diff HEAD~1 -- "$file" | grep '^+####' | sed 's/^+#### //' | tr '\n' '|' | sed 's/|$//')
+            PROMPTS="${PROMPTS}${NEW}|"
+          done
+          
+          echo "new_prompts=${PROMPTS%|}" >> $GITHUB_OUTPUT
+          echo "genres=${GENRES%, }" >> $GITHUB_OUTPUT
+
+  tweet-announcement:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate tweet
+        id: tweet
+        run: |
+          PROMPTS="${{ needs.detect-changes.outputs.new_prompts }}"
+          GENRES="${{ needs.detect-changes.outputs.genres }}"
+          
+          # Create tweet text
+          COUNT=$(echo "$PROMPTS" | tr '|' '\n' | wc -l)
+          FIRST=$(echo "$PROMPTS" | cut -d'|' -f1)
+          
+          TWEET="🎵 New Suno AI prompts added to Awesome Suno Prompts!
+          
+          +$COUNT new prompts in: $GENRES
+          
+          Featured: \"$FIRST\"
+          
+          📥 Copy, paste, generate → https://github.com/naqashmunir21/awesome-suno-prompts
+          
+          #SunoAI #MusicProduction #AIMusic #PromptEngineering"
+          
+          echo "text<<EOF" >> $GITHUB_OUTPUT
+          echo "$TWEET" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Post to Twitter (if configured)
+        if: env.TWITTER_API_KEY != ''
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+        run: |
+          # Using Twitter API v2
+          curl -X POST "https://api.twitter.com/2/tweets" \
+            -H "Authorization: Bearer ${{ secrets.TWITTER_BEARER_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            -d "{\"text\": \"${{ steps.tweet.outputs.text }}\"}"
+
+  discord-announcement:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post to Discord
+        if: env.DISCORD_WEBHOOK != ''
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          PROMPTS="${{ needs.detect-changes.outputs.new_prompts }}"
+          GENRES="${{ needs.detect-changes.outputs.genres }}"
+          COUNT=$(echo "$PROMPTS" | tr '|' '\n' | wc -l)
+          FIRST=$(echo "$PROMPTS" | cut -d'|' -f1)
+          
+          curl -X POST "$DISCORD_WEBHOOK" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"embeds\": [{
+                \"title\": \"🎵 New Suno Prompts Added!\",
+                \"description\": \"+$COUNT new prompts in: $GENRES\\n\\nFeatured: **$FIRST**\\n\\n[View on GitHub](https://github.com/naqashmunir21/awesome-suno-prompts)\",
+                \"color\": 5814783,
+                \"footer\": {\"text\": \"Awesome Suno Prompts • Auto-update\"},
+                \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
+              }]
+            }"
+
+  update-trending:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update TRENDING.md with new prompts
+        run: |
+          # This would update the trending archive with new viral candidates
+          # For now, just log what was added
+          echo "New prompts detected: ${{ needs.detect-changes.outputs.new_prompts }}"
+          echo "Genres: ${{ needs.detect-changes.outputs.genres }}"
+          
+          # Could auto-add to TRENDING.md Rising This Week section
+          # Requires more sophisticated parsing
+
+  regenerate-packs:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Regenerate prompt packs
+        run: |
+          # This would run a script to regenerate JSON packs from prompts/ folder
+          # For now, placeholder
+          echo "Would regenerate packs from prompts/ folder"
+          echo "Genres updated: ${{ needs.detect-changes.outputs.genres }}"

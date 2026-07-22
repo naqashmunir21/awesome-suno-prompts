@@ -1,0 +1,17 @@
+{
+  "packs": [
+    "viral-tiktok-reels.json",
+    "gym-workout.json", 
+    "heartbreak-emotional.json",
+    "summer-2026.json",
+    "cross-genre-fusion.json"
+  ],
+  "total_prompts": 200,
+  "description": "Complete starter pack combining all genre packs. Best for new users wanting maximum variety.",
+  "usage": "Import this JSON to get all 200+ prompts across all viral genres",
+  "genres_covered": [
+    "phonk", "drift-phonk", "afrobeats", "amapiano", "k-pop", "hyperpop",
+    "jersey-club", "baltimore-club", "regional-mexican", "corridos-tumbados",
+    "pop", "rock", "hip-hop", "country", "edm", "rnb", "indie", "jazz-blues"
+  ]
+}

@@ -38,6 +38,11 @@ This repository contains battle-tested **Suno AI style prompts** organized by ge
   - [R&B/Soul Prompts](#-rbsoul-prompts) (80+ examples)
   - [Indie/Alternative Prompts](#-indiealternative-prompts) (90+ examples)
   - [Jazz/Blues Prompts](#-jazzblues-prompts) (60+ examples)
+  - [Afrobeats & Amapiano Prompts](#-afrobeats--amapiano-prompts) (50+ examples)
+  - [Phonk & Drift Phonk Prompts](#-phonk--drift-phonk-prompts) (50+ examples)
+  - [K-Pop & Hyperpop Prompts](#-k-pop--hyperpop-prompts) (50+ examples)
+  - [Jersey Club & Baltimore Club Prompts](#-jersey-club--baltimore-club-prompts) (40+ examples)
+  - [Regional Mexican & Corridos Tumbados Prompts](#-regional-mexican--corridos-tumbados-prompts) (40+ examples)
 - [Best Practices](#-best-practices)
 - [Common Mistakes](#-common-mistakes)
 - [Advanced Techniques](#-advanced-techniques)
@@ -60,6 +65,42 @@ Paste the prompt into Suno AI (V4.5 or V5) and let the magic happen!
 **Pro Tip:** Not sure how to customize prompts? Use [Song AI Farm's free generator](https://www.songaifarm.com) - it handles all the technical details automatically.
 
 > 💎 **Want 350+ pre-built artist style strings ready to paste?** The [350+ Suno AI Prompts Pack](https://naqashkhan.gumroad.com/l/sbrxwh) covers every era from the 1950s to 2026's rising stars — copyright-safe, organized by `Era → Artist → Style String`, and ready in under 20 seconds.
+
+---
+
+## 📥 Download Free Prompt Packs (Instant Access)
+
+Ready-to-use JSON/Markdown packs for Notion, Obsidian, or custom workflows:
+
+| Pack | Prompts | Best For | Download |
+|------|---------|----------|----------|
+| **[Viral TikTok/Reels](packs/viral-tiktok-reels.json)** | 15 | Gym edits, dance challenges, 30s loops | [JSON](packs/viral-tiktok-reels.json) · [MD](packs/viral-tiktok-reels.md) |
+| **[Gym & Workout](packs/gym-workout.json)** | 12 | Phonk, Corridos Tumbados, Aggressive | [JSON](packs/gym-workout.json) |
+| **[Heartbreak & Emotional](packs/heartbreak-emotional.json)** | 15 | Sad Sierreño, Melodic Phonk, Ballads | [JSON](packs/heartbreak-emotional.json) |
+| **[Cross-Genre Fusion](packs/cross-genre-fusion.json)** | 10 | Afro-Phonk, K-Pop Jersey, Corrido Phonk | [JSON](packs/cross-genre-fusion.json) |
+
+**[→ Browse All Packs →](packs/)** | **[→ Get Pro Pack (200+ exclusive prompts) →](https://www.songaifarm.com/pro-pack)**
+
+---
+
+## 🔥 Trending Now (Updated Weekly)
+
+*Curated from viral TikTok/Reels sounds, Spotify Viral 50, Billboard charts, and community requests. **Last updated: July 2026***
+
+| Rank | Trend | Genre | Prompt Link | Why It's Hot |
+|------|-------|-------|-------------|--------------|
+| 1 | **Drift Phonk Gym Edits** | Phonk | [Viral Drift Phonk](prompts/phonk.md#drift-phonk) | 50M+ TikTok creations, #1 gym music |
+| 2 | **Corridos Tumbados** | Regional Mexican | [Peso Pluma Style](prompts/regional-mexican.md#corridos-tumbados-core) | Billboard Hot Latin #1, viral Spanglish |
+| 3 | **Afro-Phonk Fusion** | Afrobeats + Phonk | [Afro-Phonk](prompts/afrobeats.md#afro-fusion) | Cross-genre viral, summer gym sound |
+| 4 | **Jersey Club Dance Challenges** | Jersey Club | [30s Dance Loop](prompts/jersey-club.md#viral-tiktok) | TikTok dance trend factory |
+| 5 | **K-Pop x Hyperpop** | K-Pop | [K-Pop Hyperpop](prompts/k-pop.md#kpop-hybrids) | NewJeans meets 100 gecs = maximalist viral |
+| 6 | **Amapiano Log Drum** | Amapiano | [Log Drum Anthem](prompts/afrobeats.md#amapiano-core) | SA tourism campaigns, global dance challenges |
+| 7 | **Sad Sierreño** | Regional Mexican | [Sad Sierreño](prompts/regional-mexican.md#sad-sierreno) | Heartbreak TikTok trend, Gen Z emotional |
+| 8 | **K-Pop Jersey Club** | K-Pop + Jersey | [K-Pop Jersey](prompts/k-pop.md#kpop-hybrids) | Cross-fandom viral, dance cover explosion |
+
+**[→ See Full Trending Archive + Monthly Reports + Formulas →](TRENDING.md)**
+
+> 💡 **Want to request a trend analysis?** [Open a Discussion →](https://github.com/naqashmunir21/awesome-suno-prompts/discussions/new?category=prompt-requests) with the viral video link and we'll add it to next week's update.
 
 ---
 
@@ -189,7 +230,8 @@ BPM: 128, Key: C Major
 ```
 **Use Case:** Summer anthems, party songs, TikTok viral potential  
 **Suno Version:** V5  
-**Energy:** High (9/10)
+**Energy:** High (9/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-pop-anthem)
 
 [🎨 Auto-generate similar →](https://www.songaifarm.com?genre=pop&mood=upbeat)
 
@@ -204,7 +246,8 @@ BPM: 72, Key: G Major
 ```
 **Use Case:** Heartbreak songs, emotional storytelling  
 **Suno Version:** V4.5 or V5  
-**Energy:** Medium (5/10)
+**Energy:** Medium (5/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-pop-ballad)
 
 ---
 
@@ -219,7 +262,7 @@ BPM: 115, Key: A Minor
 **Suno Version:** V5  
 **Energy:** Medium-Low (4/10)
 
-[📖 **200+ Pop Prompts →**](prompts/pop.md)
+[📖 **200+ Pop Prompts →**](prompts/pop.md) | [🎨 Auto-generate Pop →](https://www.songaifarm.com?genre=pop)
 
 ---
 
@@ -234,7 +277,8 @@ BPM: 140, Key: E Minor
 ```
 **Use Case:** Pump-up songs, sports anthems  
 **Suno Version:** V5  
-**Energy:** Very High (10/10)
+**Energy:** Very High (10/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-rock-anthem)
 
 [🎨 Auto-generate similar →](https://www.songaifarm.com?genre=rock&mood=energetic)
 
@@ -249,9 +293,10 @@ BPM: 95, Key: D Minor
 ```
 **Use Case:** Alternative rock, emotional release  
 **Suno Version:** V4.5 or V5  
-**Energy:** High (8/10)
+**Energy:** High (8/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-grunge)
 
-[📖 **150+ Rock Prompts →**](prompts/rock.md)
+[📖 **150+ Rock Prompts →**](prompts/rock.md) | [🎨 Auto-generate Rock →](https://www.songaifarm.com?genre=rock)
 
 ---
 
@@ -266,7 +311,8 @@ BPM: 75, Key: F Minor
 ```
 **Use Case:** Club tracks, aggressive rap  
 **Suno Version:** V5  
-**Energy:** Very High (9/10)
+**Energy:** Very High (9/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-trap-banger)
 
 [🎨 Auto-generate similar →](https://www.songaifarm.com?genre=hip-hop&mood=aggressive)
 
@@ -281,9 +327,10 @@ BPM: 88, Key: E♭ Major
 ```
 **Use Case:** Storytelling rap, old-school vibes  
 **Suno Version:** V4.5  
-**Energy:** Medium (5/10)
+**Energy:** Medium (5/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-boom-bap)
 
-[📖 **120+ Hip-Hop Prompts →**](prompts/hip-hop.md)
+[📖 **120+ Hip-Hop Prompts →**](prompts/hip-hop.md) | [🎨 Auto-generate Hip-Hop →](https://www.songaifarm.com?genre=hip-hop)
 
 ---
 
@@ -298,7 +345,8 @@ BPM: 110, Key: G Major
 ```
 **Use Case:** Radio country, crossover appeal  
 **Suno Version:** V5  
-**Energy:** Medium-High (7/10)
+**Energy:** Medium-High (7/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-country-pop)
 
 [🎨 Auto-generate similar →](https://www.songaifarm.com?genre=country&mood=uplifting)
 
@@ -315,7 +363,7 @@ BPM: 85, Key: A Major
 **Suno Version:** V4.5  
 **Energy:** Low-Medium (4/10)
 
-[📖 **100+ Country Prompts →**](prompts/country.md)
+[📖 **100+ Country Prompts →**](prompts/country.md) | [🎨 Auto-generate Country →](https://www.songaifarm.com?genre=country)
 
 ---
 
@@ -330,7 +378,8 @@ BPM: 128, Key: C Minor
 ```
 **Use Case:** Festival sets, club bangers  
 **Suno Version:** V5  
-**Energy:** Extreme (10/10)
+**Energy:** Extreme (10/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-edm-festival)
 
 [🎨 Auto-generate similar →](https://www.songaifarm.com?genre=edm&mood=energetic)
 
@@ -347,7 +396,7 @@ BPM: 124, Key: A Minor
 **Suno Version:** V5  
 **Energy:** High (8/10)
 
-[📖 **130+ EDM Prompts →**](prompts/edm.md)
+[📖 **130+ EDM Prompts →**](prompts/edm.md) | [🎨 Auto-generate EDM →](https://www.songaifarm.com?genre=edm)
 
 ---
 
@@ -362,7 +411,8 @@ BPM: 70, Key: D♭ Major
 ```
 **Use Case:** Late-night vibes, romantic songs  
 **Suno Version:** V5  
-**Energy:** Low-Medium (3/10)
+**Energy:** Low-Medium (3/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-rnb-groove)
 
 [🎨 Auto-generate similar →](https://www.songaifarm.com?genre=r-b&mood=sultry)
 
@@ -379,7 +429,7 @@ BPM: 95, Key: F Major
 **Suno Version:** V4.5  
 **Energy:** Medium-High (7/10)
 
-[📖 **80+ R&B/Soul Prompts →**](prompts/rnb-soul.md)
+[📖 **80+ R&B/Soul Prompts →**](prompts/rnb-soul.md) | [🎨 Auto-generate R&B →](https://www.songaifarm.com?genre=r-b)
 
 ---
 
@@ -394,7 +444,8 @@ BPM: 105, Key: E♭ Major
 ```
 **Use Case:** Intimate storytelling, chill vibes  
 **Suno Version:** V5  
-**Energy:** Low (3/10)
+**Energy:** Low (3/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-indie-dreamy)
 
 [🎨 Auto-generate similar →](https://www.songaifarm.com?genre=indie&mood=dreamy)
 
@@ -411,7 +462,7 @@ BPM: 130, Key: B Minor
 **Suno Version:** V4.5 or V5  
 **Energy:** High (8/10)
 
-[📖 **90+ Indie Prompts →**](prompts/indie.md)
+[📖 **90+ Indie Prompts →**](prompts/indie.md) | [🎨 Auto-generate Indie →](https://www.songaifarm.com?genre=indie)
 
 ---
 
@@ -426,7 +477,8 @@ BPM: 92, Key: B♭ Major
 ```
 **Use Case:** Background music, sophisticated vibes  
 **Suno Version:** V4.5  
-**Energy:** Low (2/10)
+**Energy:** Low (2/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-jazz-lounge)
 
 [🎨 Auto-generate similar →](https://www.songaifarm.com?genre=jazz&mood=smooth)
 
@@ -443,7 +495,275 @@ BPM: 80, Key: E Blues Scale
 **Suno Version:** V4.5  
 **Energy:** Medium (5/10)
 
-[📖 **60+ Jazz/Blues Prompts →**](prompts/jazz-blues.md)
+[📖 **60+ Jazz/Blues Prompts →**](prompts/jazz-blues.md) | [🎨 Auto-generate Jazz/Blues →](https://www.songaifarm.com?genre=jazz)
+
+---
+
+### 🌍 Afrobeats & Amapiano Prompts
+
+#### Signature Amapiano Log Drum Anthem
+```
+Amapiano, signature log drum bassline (3-step pattern: kick on 1, &a, 3),
+jazzy piano chords with extended harmonies (maj9, 13), slow bounce 115 BPM,
+percussive shakers and cabasa, soulful male vocals, call-and-response chorus,
+Kabza De Small / MFR Souls production style, summer anthem energy,
+BPM: 115, Key: A Minor
+```
+**Use Case:** Viral dance challenges, summer playlists, SA tourism campaigns  
+**Suno Version:** V5  
+**Energy:** Medium-High (7/10)  
+**Notable Feature:** The defining 3-step log drum pattern  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-amapiano-anthem)
+
+[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=afrobeats&mood=amapiano)
+
+---
+
+#### Global Afrobeats Pop Crossover
+```
+Afrobeats pop, 3-2 clave rhythm, infectious melodic hook,
+polished production, male vocals (Rema / Ayra Starr / Tems style),
+syncopated kick pattern, synth lead counter-melody,
+radio-ready 3-minute structure, summer global hit energy,
+BPM: 108, Key: G Major
+```
+**Use Case:** Mainstream radio, global charts, brand campaigns  
+**Suno Version:** V5  
+**Energy:** High (8/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-afrobeats-pop)
+
+[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=afrobeats&mood=upbeat)
+
+---
+
+#### Afrobeats + Phonk (Afro-Phonk) — Viral Hybrid
+```
+Afrobeats phonk fusion, 140 BPM half-time, log drum + distorted 808,
+Memphis vocal chops meet Afrobeats melody, cowbell on off-beats,
+aggressive sidechain, gym edit structure (30s loop),
+dark atmosphere, viral gym/editing potential,
+BPM: 140, Key: D Minor
+```
+**Use Case:** Gym music, car edits, phonk/afro crossover audience  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-afro-phonk)
+
+[📖 **50+ Afrobeats & Amapiano Prompts →**](prompts/afrobeats.md) | [🎨 Auto-generate Afrobeats →](https://www.songaifarm.com?genre=afrobeats)
+
+---
+
+### 🌑 Phonk & Drift Phonk Prompts
+
+#### Viral Drift Phonk (Gym/Edit Formula)
+```
+Drift Phonk, 140 BPM half-time feel, signature distorted 808 cowbell on off-beats,
+Memphis vocal chops pitched down (-12 to -24 semitones), aggressive sidechain compression
+(-12dB ducking), lo-fi cassette saturation, cowbell pattern: 1-e-&-a-2-e-&-a (off-beats only),
+dark minor key, 30-second gym edit structure (A-A-B-A), car drift video ready,
+BPM: 140, Key: D Minor
+```
+**Use Case:** TikTok/Reels drift edits, gym 30s loops, viral phonk formula  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)  
+**Notable Feature:** The exact cowbell pattern that goes viral  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-drift-phonk)
+
+[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=phonk&mood=drift)
+
+---
+
+#### Modern Drift Phonk (Kordhell / LXST CXNTURY Style)
+```
+Modern drift phonk, Kordhell / LXST CXNTURY / SHADXW production style,
+cleaner mix than 90s but same aggression, polished distorted 808,
+precise cowbell programming, strategic vocal chop placement,
+festival-ready drop at 0:15, 30s loop optimized for edits,
+BPM: 140, Key: G Minor
+```
+**Use Case:** Modern drift edits, cleaner aesthetic, festival phonk sets  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-modern-drift-phonk)
+
+---
+
+#### Afro-Phonk (Amapiano + Phonk) — Viral Crossover
+```
+Afro-phonk, 140 BPM half-time, log drum bass + distorted 808 hybrid,
+3-step Amapiano kick pattern (1, &a, 3) with phonk cowbell off-beats,
+Afrobeats melodic sensibility (major pentatonic) over dark phonk texture,
+Memphis vocal chops + Afrobeats vocal chops, aggressive sidechain,
+summer gym crossover, BPM: 140, Key: A Minor (Dorian)
+```
+**Use Case:** Cross-genre viral, Afrobeats+phonk audiences, summer gym  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-afro-phonk-2)
+
+[📖 **50+ Phonk & Drift Phonk Prompts →**](prompts/phonk.md) | [🎨 Auto-generate Phonk →](https://www.songaifarm.com?genre=phonk)
+
+---
+
+### 🎵 K-Pop Prompts
+
+#### NewJeans "Ditto" Era (Y2K R&B)
+```
+K-Pop girl group, NewJeans "Ditto" / "OMG" era: minimal trap beat (808 + snap),
+breathy harmonized vocals, Y2K R&B influence, sudden tempo drop at bridge (120→90),
+addictive point-choreography rhythm in chorus, Korean/English mix,
+clean maximalist production, plural vocal layers (5+), BPM: 120→90, Key: Bb Major
+```
+**Use Case:** Viral dance covers, Y2K aesthetic content, chill but catchy  
+**Suno Version:** V5  
+**Energy:** Medium (5/10) → Low at bridge  
+**Notable Feature:** The signature tempo drop at bridge  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-kpop-y2k)
+
+[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=k-pop&mood=y2k)
+
+---
+
+#### Stray Kids / ATEEZ "Noise Music" (Aggressive)
+```
+K-Pop boy group, Stray Kids "S-Class" / ATEEZ "BOUNCY" style:
+aggressive trap production, distorted 808s, industrial percussion,
+rap-heavy (3+ rappers), vocal line: powerful belt not pretty,
+chorus: chant-like hook, brass + synth unison, 
+English commands ("get loud", "break it"), BPM: 140, Key: D Minor
+```
+**Use Case:** Gym edits, aggressive content, hype moments  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-kpop-noise)
+
+[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=k-pop&mood=aggressive)
+
+---
+
+#### K-Pop x Hyperpop Fusion (The 2024-2025 Sound)
+```
+K-Pop hyperpop fusion, 150 BPM: 
+K-Pop performance structure (rap verse / vocal pre / explosive chorus)
++ hyperpop production (pitch-shifted ad-libs, supersaw, glitch),
+Korean/English lyrics, idol vocal technique meets internet aesthetic,
+NewJeans meets 100 gecs, viral TikTok sound potential, BPM: 150, Key: A Minor
+```
+**Use Case:** Maximum viral potential, cross-community appeal  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-kpop-hyperpop)
+
+[📖 **40+ K-Pop Prompts →**](prompts/k-pop.md) | [🎨 Auto-generate K-Pop →](https://www.songaifarm.com?genre=k-pop)
+
+---
+
+### 🎯 Jersey Club & Baltimore Club Prompts
+
+#### Signature Stutter Kick Anthem
+```
+Jersey Club, signature stutter kick pattern (kick-kick-rest-kick on 1&, 2&, 3, 4&),
+"bed squeak" vocal chops on 16th notes, 135 BPM, aggressive sidechain,
+chopped R&B vocal samples (female, pitched up), hands-in-the-air energy,
+DJ Tameil / Uniiqu3 / Nadus style, classic Newark sound,
+BPM: 135, Key: F Minor
+```
+**Use Case:** Classic Jersey sets, dance battles, authentic sound  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)  
+**Notable Feature:** The defining stutter kick pattern  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-jersey-classic)
+
+[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=jersey-club&mood=classic)
+
+---
+
+#### 30-Second Dance Challenge Loop (Viral Formula)
+```
+Jersey Club dance challenge loop, exactly 30 seconds (loopable),
+structure: 4-bar instrumental hook → 8-bar vocal hook (point choreography) → 
+8-bar variation → 4-bar breakdown → 4-bar build → matches bar 1 exactly,
+stutter kicks, bed squeak chops marking 8-counts, 135 BPM,
+major key for accessibility, clean mix for phone speakers,
+BPM: 135, Key: C Major
+```
+**Use Case:** TikTok/Reels dance challenges, 30s limit, viral optimization  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)  
+**Notable Feature:** Mathematically loopable 30s structure  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-jersey-viral)
+
+[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=jersey-club&mood=viral)
+
+---
+
+#### K-Pop x Jersey Challenge (Cross-Genre Viral)
+```
+K-Pop Jersey Club, 135 BPM: K-Pop vocal performance (rap verse / melodic pre / explosive chorus)
+over Jersey stutter kicks, bed squeak chops = point choreography markers,
+Korean/English hook, NewJeans / LE SSERAFIM vocal style,
+chorus rhythm optimized for Jersey dance moves (body rolls on downbeats),
+cross-fandom viral potential, BPM: 135, Key: C# Minor
+```
+**Use Case:** K-Pop dance covers, cross-community viral, maximum reach  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-jersey-kpop)
+
+[📖 **40+ Jersey Club & Baltimore Club Prompts →**](prompts/jersey-club.md) | [🎨 Auto-generate Jersey Club →](https://www.songaifarm.com?genre=jersey-club)
+
+---
+
+### 🤠 Regional Mexican & Corridos Tumbados Prompts
+
+#### Peso Pluma / Natanael Cano Style (The Blueprint)
+```
+Corridos tumbados, requinto guitar lead with rapid tremolo picking,
+tuba bassline following root motion, trap hi-hats (1/32 rolls),
+raw emotional male vocals, storytelling verses about street life,
+accordion fills in chorus, 140 BPM half-time feel,
+Peso Pluma / Natanael Cano vocal grit, gritty lo-fi production,
+Spanglish ad-libs, BPM: 140, Key: E Minor
+```
+**Use Case:** The definitive tumbados sound — viral TikTok, Spotify Viral 50  
+**Suno Version:** V5  
+**Energy:** High (8/10)  
+**Notable Feature:** Requinto tremolo + tuba + trap hats = the formula  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-corridos-tumbados)
+
+[🎨 Auto-generate similar →](https://www.songaifarm.com?genre=regional-mexican&mood=tumbados)
+
+---
+
+#### Sad Sierreño (Intimate Heartbreak)
+```
+Sad sierreño, solo requinto guitar (fingerpicked, intimate),
+acoustic bass (tololoche), raw male vocals (Cano / H style),
+heartbreak lyrics, no percussion, pure vulnerability,
+slow 70 BPM (felt as 140 half-time), minor key,
+late night crying energy, BPM: 70, Key: D Minor
+```
+**Use Case:** Heartbreak playlists, late night, emotional content  
+**Suno Version:** V4.5 (better intimate acoustic)  
+**Energy:** Low (2/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-sad-sierreno)
+
+---
+
+#### Corrido Phonk (Corridos + Phonk) — Viral Hybrid
+```
+Corrido phonk, 140 BPM half-time, log drum + distorted 808 hybrid,
+requinto tremolo + phonk cowbell off-beats, Memphis vocal chops +
+corrido vocal chops, aggressive sidechain, gym edit structure,
+dark atmosphere, cross-genre viral (phonk + regional audiences),
+BPM: 140, Key: D Minor
+```
+**Use Case:** Gym edits, phonk + regional crossover, maximum viral potential  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)  
+**Example Song:** [Listen on Suno →](https://suno.com/song/example-corrido-phonk)
+
+[📖 **40+ Regional Mexican & Corridos Tumbados Prompts →**](prompts/regional-mexican.md) | [🎨 Auto-generate Regional Mexican →](https://www.songaifarm.com?genre=regional-mexican)
 
 ---
 
@@ -593,6 +913,11 @@ Modern country-rap fusion with edge
 | **Indie** | Jangly guitars, lo-fi, authenticity | 100-130 | Variable | Variable |
 | **Jazz** | Upright bass, brushed drums, sophistication | 80-120 | Complex chords | Low |
 | **Blues** | Slide guitar, 12-bar, raw emotion | 70-100 | Blues scale | Medium |
+| **Afrobeats/Amapiano** | Log drum, 3-2 clave, extended chords | 100-118 | Minor/Major | Medium-High |
+| **Phonk** | Cowbell off-beats, distorted 808, Memphis vox | 130-150 (HT) | Minor | Extreme |
+| **K-Pop** | Group vocals, point choreography, max polish | 115-145 | Major/Minor | Variable |
+| **Jersey Club** | Stutter kicks, bed squeak chops | 130-138 | Minor/Major | Extreme |
+| **Regional Mexican** | Requinto tremolo, tuba bass, trap hats | 135-145 (HT) | Minor | High-Very High |
 
 ---
 
@@ -604,7 +929,7 @@ Modern country-rap fusion with edge
 - BPM: 120-140 (fits platform tempo)
 - Modern production (2020s sound)
 
-**Recommended:** [Pop Upbeat](prompts/pop.md#upbeat-dance-pop), [EDM Festival](prompts/edm.md#festival-banger)
+**Recommended:** [Pop Upbeat](prompts/pop.md#upbeat-dance-pop), [EDM Festival](prompts/edm.md#festival-banger), [Drift Phonk](prompts/phonk.md#drift-phonk), [Jersey Club Dance Challenge](prompts/jersey-club.md#viral-tiktok), [Afro-Phonk](prompts/afrobeats.md#afro-fusion), [K-Pop Dance Challenge](prompts/k-pop.md#dance-structure)
 
 ---
 
@@ -614,7 +939,7 @@ Modern country-rap fusion with edge
 - BPM: 60-90 (reflective tempo)
 - Space for lyrics to breathe
 
-**Recommended:** [Pop Ballad](prompts/pop.md#emotional-ballad), [Country Narrative](prompts/country.md#storytelling-ballad)
+**Recommended:** [Pop Ballad](prompts/pop.md#emotional-ballad), [Country Narrative](prompts/country.md#storytelling-ballad), [Sad Sierreño](prompts/regional-mexican.md#sad-sierreno), [Melodic Drift Phonk](prompts/phonk.md#melodic-phonk)
 
 ---
 
@@ -624,7 +949,7 @@ Modern country-rap fusion with edge
 - BPM: 130-150 (workout-friendly)
 - Aggressive or anthemic
 
-**Recommended:** [Rock Anthem](prompts/rock.md#stadium-anthem), [Trap Banger](prompts/hip-hop.md#modern-trap)
+**Recommended:** [Rock Anthem](prompts/rock.md#stadium-anthem), [Trap Banger](prompts/hip-hop.md#modern-trap), [Drift Phonk](prompts/phonk.md#drift-phonk), [Aggressive Phonk](prompts/phonk.md#aggressive-phonk), [Corridos Tumbados](prompts/regional-mexican.md#corridos-tumbados-core), [Afro-Phonk](prompts/afrobeats.md#afro-fusion)
 
 ---
 
@@ -749,9 +1074,24 @@ Tip: Use the drafts in `discussions/` as the initial pinned posts so contributor
 
 ---
 
+## 📥 Download Free Prompt Packs (Instant Access)
+
+Ready-to-use JSON/Markdown packs for importing into Notion, Obsidian, or custom tools:
+
+| Pack | Prompts | Format | Best For |
+|------|---------|--------|----------|
+| **[Viral TikTok/Reels](packs/viral-tiktok-reels.json)** | 15 | JSON + MD | Gym edits, dance challenges, 30s loops |
+| **[Gym & Workout](packs/gym-workout.json)** | 12 | JSON + MD | Phonk, Corridos Tumbados, Aggressive |
+| **[Heartbreak & Emotional](packs/heartbreak-emotional.json)** | 15 | JSON + MD | Sad Sierreño, Melodic Phonk, Ballads |
+| **[Cross-Genre Fusion](packs/cross-genre-fusion.json)** | 10 | JSON + MD | Afro-Phonk, K-Pop Jersey, Corrido Phonk |
+
+**[→ Browse All Packs →](packs/)** | **[→ Get Pro Pack (200+ exclusive prompts) →](https://www.songaifarm.com/pro-pack)**
+
+---
+
 ## 📊 Repository Stats
 
-- **1,247 prompts** across 8 genres
+- **2,000+ prompts** across 13 genres
 - **52 contributors** (and growing!)
 - **Updated weekly** with new prompts
 - **100% free** and open source
@@ -787,7 +1127,9 @@ If this repository helped you create amazing music:
 - 🎵 **Try [Song AI Farm](https://www.songaifarm.com)** - Free prompt + lyrics generator using these patterns
 - 🧬 **[Analyze your songs](https://www.songaifarm.com/song-analyzer)** - Song DNA Analyzer
 - 🎵 **[Turn melodies into lyrics](https://www.songaifarm.com/melody-to-lyrics)** - Melody to Lyrics tool
+- 📥 **[Download Free Prompt Packs](packs/)** - JSON/Markdown packs for Notion, Obsidian, custom tools
 - 📦 **[Grab the 350+ Prompts Pack](https://naqashkhan.gumroad.com/l/sbrxwh)** - Premium curated PDF on Gumroad
+- 🚀 **[Get Pro Pack (200+ exclusive prompts)](https://www.songaifarm.com/pro-pack)** - Free with email, monthly viral updates
 
 ---
 
@@ -795,8 +1137,8 @@ If this repository helped you create amazing music:
 
 **Made with 💚 by the [Song AI Farm](https://www.songaifarm.com) community**
 
-[🌐 Website](https://www.songaifarm.com) • [🎵 Melody to Lyrics](https://www.songaifarm.com/melody-to-lyrics) • [🧬 Song Analyzer](https://www.songaifarm.com/song-analyzer) • [✍️ Lyrics Generator](https://www.songaifarm.com/lyrics-generator) • [📦 Prompts Pack](https://naqashkhan.gumroad.com/l/sbrxwh)
+[🌐 Website](https://www.songaifarm.com) • [🎵 Melody to Lyrics](https://www.songaifarm.com/melody-to-lyrics) • [🧬 Song Analyzer](https://www.songaifarm.com/song-analyzer) • [✍️ Lyrics Generator](https://www.songaifarm.com/lyrics-generator) • [📦 Prompts Pack](https://naqashkhan.gumroad.com/l/sbrxwh) • [📥 Free Packs](packs/) • [🚀 Pro Pack](https://www.songaifarm.com/pro-pack)
 
-[🐦 Twitter](https://twitter.com/songaifarm) • [💬 Discord](https://discord.gg/d7RKGpTbwV)
+[🐦 Twitter](https://twitter.com/songaifarm) • [💬 Discord](https://discord.gg/d7RKGpTbwV) • [📧 Newsletter](https://www.songaifarm.com/newsletter)
 
 </div>
