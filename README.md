@@ -985,6 +985,7 @@ This repository is licensed under [CC0 1.0 Universal](LICENSE) (Public Domain). 
 - **[Suno AI Masterclass](https://www.songaifarm.com/blog/suno-masterclass)** - Complete guide to Suno prompts
 - **[Prompt Engineering 101](https://www.songaifarm.com/blog/prompt-engineering)** - Beginner's guide
 - **[Genre Production Guide](https://www.songaifarm.com/blog/genre-production)** - Genre-specific tips
+- **[Suno Meta Tags Guide](https://sunometatagcreator.com/metatags-guide)** - Free reference guide to 1000+ Suno meta tags with syntax and examples
 
 ---
 
