@@ -14,6 +14,7 @@ Professional Suno AI prompts for electronic dance music - from festival bangers 
 - [Trance](#trance) - Euphoric uplifting energy
 - [Techno](#techno) - Underground club sound
 - [Future Bass](#future-bass) - Emotional melodic drops
+- [Electronic EDM Essentials](#electronic-edm-essentials) - Versatile modern electronic sounds
 - [Production Tips](#production-tips) - Technical guidelines
 
 ---
@@ -257,6 +258,120 @@ BPM: 140, Key: G Major
 
 ---
 
+## Electronic EDM Essentials
+
+### Electro House Night Drive
+```
+Modern electro house, punchy four-on-the-floor kick,
+glossy saw bass, syncopated synth stabs, neon night-drive atmosphere,
+short vocal hook, clean club mix, tension-building pre-chorus,
+wide energetic drop with a memorable lead,
+BPM: 126, Key: F# Minor
+```
+**Use Case:** Night-drive playlists, club sets, gaming edits  
+**Suno Version:** V5  
+**Energy:** High (8/10)
+
+---
+
+### Future Rave Anthem
+```
+Future rave EDM, dark cinematic intro, rumbling distorted bass,
+hypnotic minor-key synth motif, filtered vocal phrases,
+dramatic risers, huge 4/4 drop, clean modern festival production,
+contrasting atmospheric breakdown before the final release,
+BPM: 132, Key: D Minor
+```
+**Use Case:** Mainstage sets, action trailers, high-intensity workouts  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)
+
+---
+
+### Bass House Groove
+```
+Bass house, infectious syncopated bass groove, tight punchy kick,
+percussive house drums, chopped vocal one-shots, gritty mid-bass,
+minimal verse, explosive call-and-response drop,
+dark playful club energy with a polished low end,
+BPM: 128, Key: C Minor
+```
+**Use Case:** Club playlists, dance videos, DJ transitions  
+**Suno Version:** V5  
+**Energy:** Very High (9/10)
+
+---
+
+### Tropical EDM Sunset
+```
+Tropical house EDM, warm plucked guitar, marimba accents,
+soft organic percussion, airy vocal topline, gentle sidechain pulse,
+sunset beach atmosphere, uplifting melodic drop,
+bright polished mix without aggressive bass,
+BPM: 110, Key: G Major
+```
+**Use Case:** Summer playlists, travel videos, relaxed dance sets  
+**Suno Version:** V5  
+**Energy:** Medium-High (7/10)
+
+---
+
+### Synthwave EDM Fusion
+```
+Synthwave EDM fusion, retro analog arpeggio, gated snare,
+driving electronic bass, cinematic 80s pads, vocoder vocal accents,
+nostalgic neon atmosphere, modern dance drums,
+anthemic synth lead and a wide punchy chorus drop,
+BPM: 118, Key: A Minor
+```
+**Use Case:** Retro-futuristic videos, gaming soundtracks, night drives  
+**Suno Version:** V5  
+**Energy:** High (8/10)
+
+---
+
+### Hard Dance Rave
+```
+Hard dance EDM, pounding kick and rolling bass,
+acid synth sequence, rave stabs, shouted crowd vocal,
+relentless build-up, euphoric hands-in-the-air drop,
+raw warehouse intensity with a clear modern master,
+BPM: 150, Key: E Minor
+```
+**Use Case:** Rave playlists, intense workouts, peak-time dance floors  
+**Suno Version:** V5  
+**Energy:** Extreme (10/10)
+
+---
+
+### Liquid Drum and Bass EDM
+```
+Liquid drum and bass EDM, crisp rolling breakbeats,
+deep controlled sub-bass, lush piano chords, shimmering pads,
+emotional vocal melody, intricate percussion fills,
+uplifting atmospheric drop with fluid bass movement,
+BPM: 174, Key: B Minor
+```
+**Use Case:** Driving playlists, late-night listening, emotional dance sets  
+**Suno Version:** V5  
+**Energy:** High (8/10)
+
+---
+
+### Minimal Deep Electronic
+```
+Minimal deep electronic, warm sub-bass, restrained four-on-the-floor groove,
+muted synth plucks, spacious percussion, subtle textured pads,
+hypnotic arrangement with gradual automation, intimate late-night mood,
+deep clean mix and understated melodic payoff,
+BPM: 120, Key: C# Minor
+```
+**Use Case:** Lounge playlists, after-hours clubs, focused listening  
+**Suno Version:** V5  
+**Energy:** Medium (6/10)
+
+---
+
 ## Production Tips
 
 ### 🎛️ **Key Production Elements by Subgenre**
@@ -330,4 +445,3 @@ Have a festival-destroying prompt? [Contribute to this collection](../CONTRIBUTI
 **[🎨 Generate Custom EDM Prompts →](https://www.songaifarm.com/generator?genre=edm)**
 
 *Made with 💚 by [Song AI Farm](https://www.songaifarm.com)*
-
