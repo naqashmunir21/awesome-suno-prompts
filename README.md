@@ -1,11 +1,12 @@
 # 🎵 Awesome Suno AI Prompts
 
-> A community-curated collection of **1000+ professional Suno AI style prompts** that actually work. Create chart-quality songs without being a prompt engineer.
+> A community-curated collection of **1000+ professional Suno AI style prompts** that actually work. Create chart-quality songs without being a prompt engineer. **Now fully updated for the Suno v6 family** (v6, v6-wild, v6-mini).
 
 [![GitHub Stars](https://img.shields.io/github/stars/naqashmunir21/awesome-suno-prompts?style=social)](https://github.com/naqashmunir21/awesome-suno-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg)](LICENSE)
 [![Maintained](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/naqashmunir21/awesome-suno-prompts/graphs/commit-activity)
+[![Suno v6 Ready](https://img.shields.io/badge/Suno-v6%20ready-purple.svg)](#-suno-v6-guide--september-2026-update)
 [![Forks](https://img.shields.io/github/forks/naqashmunir21/awesome-suno-prompts?style=social)](https://github.com/naqashmunir21/awesome-suno-prompts/network/members)
 [![Open Issues](https://img.shields.io/github/issues/naqashmunir21/awesome-suno-prompts)](https://github.com/naqashmunir21/awesome-suno-prompts/issues)
 [![Discussions](https://img.shields.io/github/discussions/naqashmunir21/awesome-suno-prompts)](https://github.com/naqashmunir21/awesome-suno-prompts/discussions)
@@ -16,13 +17,14 @@
 
 This repository contains battle-tested **Suno AI style prompts** organized by genre, mood, and use case. Whether you're creating a viral hit, emotional ballad, or genre-bending experiment, you'll find professional-quality prompts here.
 
-**New to prompt engineering?** Check out [Song AI Farm](https://www.songaifarm.com) - a free tool that auto-generates optimized prompts + lyrics in 30 seconds using the patterns in this repo.
+**New to prompt engineering?** Check out [Song AI Farm](https://www.songaifarm.com) - a free tool that auto-generates v6-optimized prompts + lyrics in 30 seconds using the patterns in this repo.
 
 ---
 
 ## 📚 Table of Contents
 
 - [Quick Start](#-quick-start)
+- [🆕 Suno V6 Guide (September 2026 Update)](#-suno-v6-guide--september-2026-update)
 - [Song AI Farm Tools](#️-song-ai-farm-tools--go-further-faster)
   - [Melody to Lyrics](#-melody-to-lyrics)
   - [Song DNA Analyzer](#-song-dna-analyzer)
@@ -60,11 +62,52 @@ Browse the [genre collections](#-genre-collections) below or dive into detailed 
 Each prompt is ready to use. Modify BPM, key, or instrumentation to fit your vision.
 
 ### 3. Generate with Suno
-Paste the prompt into Suno AI (V4.5 or V5) and let the magic happen!
+Paste the prompt into Suno AI (**v6**, **v6-wild**, or **v6-mini** — all pre-v6 models were retired on September 9, 2026) and let the magic happen!
 
-**Pro Tip:** Not sure how to customize prompts? Use [Song AI Farm's free generator](https://www.songaifarm.com) - it handles all the technical details automatically.
+**Pro Tip:** Not sure how to customize prompts? Use [Song AI Farm's free generator](https://www.songaifarm.com) - it's updated for v6 and handles all the technical details automatically.
 
 > 💎 **Want 350+ pre-built artist style strings ready to paste?** The [350+ Suno AI Prompts Pack](https://naqashkhan.gumroad.com/l/sbrxwh) covers every era from the 1950s to 2026's rising stars — copyright-safe, organized by `Era → Artist → Style String`, and ready in under 20 seconds.
+
+---
+
+## 🆕 Suno V6 Guide — September 2026 Update
+
+On **September 9, 2026**, Suno retired every earlier model (v4.5, v4.5+, v5, v5.5) and moved the entire platform to the new **v6 family**, developed in partnership with Warner Music Group, BMG, and Believe. Your old songs stay in your library, but all new generations run on v6. Every prompt in this repo has been re-verified for the v6 family.
+
+### The Three Models
+
+| Model | Access | Best For |
+|-------|--------|----------|
+| **v6** | Pro / Premier | Flagship — reliable, precise, consistently polished. Use when you know exactly what you want. |
+| **v6-wild** | Pro / Premier | Exploration — less predictable, more textured and ambitious. Great for genre fusions and happy accidents; refine the keeper back on v6. |
+| **v6-mini** | Everyone (free) | Fast drafts and idea testing before spending premium credits. |
+
+**Practical rule:** v6-mini to sketch → v6 to nail the arrangement → v6-wild when the lane feels too safe.
+
+### What's New for Prompt Writers
+
+- **Multimodal prompts** — reference Suno songs, playlists, audio uploads, images, or even video alongside text in a single prompt (Simple Mode)
+- **Plain-language editing** — change one section or a single lyric with a text instruction while the rest of the song stays put
+- **Mashup & Sample** — blend two songs into one, or isolate a snippet (from a Suno song, a voice memo, anything) and build a new beat from it
+- **Suno Sounds** — generate one-shot samples and loops from scratch (choose key & BPM)
+- **Up to 8 minutes** per generation on all three models
+- **Max Mode** — higher-credit generations for long songs, faithful covers, style transfer, and consistent vocals
+
+### V6 Controls You MUST Understand
+
+These live under **Advanced Options** in Custom Mode — typing slider values like "weirdness 20%" into the style box does nothing.
+
+| Control | What It Does | Pro Tip |
+|---------|--------------|---------|
+| **Variety** | Rewrites/expands your style prompt to introduce variation | **Set to 0** to keep your tags exactly as typed — critical for the precise prompts in this repo |
+| **Style Influence** | How strictly the model follows your prompt (Loose → Strong) | 75–85 works well for the detailed briefs here |
+| **Weirdness** | Creativity dial (Safe → Chaos, 50 = neutral) | ~20 for obedience, push it high on v6-wild for surprises |
+| **Exclude Styles** | Remove instruments/styles/vocal types you don't want | e.g. exclude `male vocals` when prompting female-led tracks |
+| **Max Mode** | Not a slider — more compute per generation | Save it for the take you intend to keep |
+
+> ⚠️ **The #1 V6 complaint, solved:** If Suno "keeps changing your prompt," that's the Variety slider doing its documented job. Set **Variety = 0** and your style tags stay verbatim. Every prompt in this repo assumes Variety 0.
+
+> 💡 **Skip the V6 learning curve:** [Song AI Farm's free generator](https://www.songaifarm.com) has been updated for the v6 family — it outputs v6-optimized style strings with the right structure, and its guides cover the new sliders, Max Mode, and multimodal workflows.
 
 ---
 
@@ -85,7 +128,7 @@ Ready-to-use JSON/Markdown packs for Notion, Obsidian, or custom workflows:
 
 ## 🔥 Trending Now (Updated Weekly)
 
-*Curated from viral TikTok/Reels sounds, Spotify Viral 50, Billboard charts, and community requests. **Last updated: July 2026***
+*Curated from viral TikTok/Reels sounds, Spotify Viral 50, Billboard charts, and community requests. **Last updated: July 2026 — all prompts re-verified on the Suno v6 family***
 
 | Rank | Trend | Genre | Prompt Link | Why It's Hot |
 |------|-------|-------|-------------|--------------|
@@ -106,7 +149,7 @@ Ready-to-use JSON/Markdown packs for Notion, Obsidian, or custom workflows:
 
 ## 🛠️ Song AI Farm Tools — Go Further Faster
 
-Level up your Suno AI workflow with these free tools built by the Song AI Farm team:
+Level up your Suno AI workflow with these free tools built by the Song AI Farm team — all updated for the v6 family:
 
 ### 🎵 Melody to Lyrics
 > **Have a tune but no words? Drop your audio — get lyrics that fit perfectly.**
@@ -125,7 +168,7 @@ Upload any melody, hum, or audio file and Song AI Farm writes lyrics that match 
 ### 🧬 Song DNA Analyzer
 > **Reverse-engineer any song and auto-fill your prompt generator.**
 
-Upload an audio file and get a full breakdown of its DNA: lyrics, structure, theme, instrumentation, tempo, and more. The analyzer auto-populates the song generator so you can clone a vibe instantly.
+Upload an audio file and get a full breakdown of its DNA: lyrics, structure, theme, instrumentation, tempo, and more. The analyzer auto-populates the song generator so you can clone a vibe instantly — the perfect companion for v6's multimodal reference prompts.
 
 **[→ Analyze a Song — Free](https://www.songaifarm.com/song-analyzer)**
 
@@ -148,7 +191,7 @@ The full-featured AI lyrics generator. Pick genre, mood, language, and theme —
 
 #### 🚨 Why You Need This in 2026
 
-- **Suno v5+ is smarter than ever — but it still needs exact style descriptions** to sound like real artists. Vague prompts produce generic output.
+- **Suno v6 is smarter than ever — but it still needs exact style descriptions** to sound like real artists. Vague prompts produce generic output.
 - **Naming artists directly = instant copyright block.** These prompts use proven descriptive phrases that capture every artist's sonic DNA and bypass Suno's restrictions **100% legally**.
 - **All 2026 trends are built in** — hyperpop, phonk, afrobeats, darkwave, Brazilian funk, rage, pluggnb, and the hottest rising TikTok sounds — all with fresh, tested prompts.
 - **200+ brand-new rising artists added** — JADE, Addison Rae, Tommy Richman, Qing Madi, Nemzzz, Chloe Qisha, and dozens more from Spotify's Artists to Watch in 2026.
@@ -229,7 +272,7 @@ modern production, vocal harmonies on chorus,
 BPM: 128, Key: C Major
 ```
 **Use Case:** Summer anthems, party songs, TikTok viral potential  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** High (9/10)  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=pop&mood=upbeat)
 
@@ -243,7 +286,7 @@ reverb on vocals, stripped-down bridge, powerful final chorus,
 BPM: 72, Key: G Major
 ```
 **Use Case:** Heartbreak songs, emotional storytelling  
-**Suno Version:** V4.5 or V5  
+**Suno Version:** v6  
 **Energy:** Medium (5/10)  
 ---
 
@@ -255,7 +298,7 @@ tape saturation warmth, imperfect and authentic,
 BPM: 115, Key: A Minor
 ```
 **Use Case:** Authentic storytelling, chill vibes  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Medium-Low (4/10)
 
 [📖 **200+ Pop Prompts →**](prompts/pop.md) | [🎨 Auto-generate Pop →](https://www.songaifarm.com/generator?genre=pop)
@@ -272,7 +315,7 @@ distorted guitars, thunderous drums, raw powerful vocals,
 BPM: 140, Key: E Minor
 ```
 **Use Case:** Pump-up songs, sports anthems  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Very High (10/10)  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=rock&mood=energetic)
 
@@ -286,7 +329,7 @@ stripped-down verse, explosive chorus, feedback and noise,
 BPM: 95, Key: D Minor
 ```
 **Use Case:** Alternative rock, emotional release  
-**Suno Version:** V4.5 or V5  
+**Suno Version:** v6  
 **Energy:** High (8/10)  
 [📖 **150+ Rock Prompts →**](prompts/rock.md) | [🎨 Auto-generate Rock →](https://www.songaifarm.com/generator?genre=rock)
 
@@ -302,7 +345,7 @@ ad-libs throughout, hard bass drop, modern rap production,
 BPM: 75, Key: F Minor
 ```
 **Use Case:** Club tracks, aggressive rap  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Very High (9/10)  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=hip-hop&mood=aggressive)
 
@@ -316,7 +359,7 @@ warm analog sound, deep bass, conscious lyrics vibe,
 BPM: 88, Key: E♭ Major
 ```
 **Use Case:** Storytelling rap, old-school vibes  
-**Suno Version:** V4.5  
+**Suno Version:** v6  
 **Energy:** Medium (5/10)  
 [📖 **120+ Hip-Hop Prompts →**](prompts/hip-hop.md) | [🎨 Auto-generate Hip-Hop →](https://www.songaifarm.com/generator?genre=hip-hop)
 
@@ -332,7 +375,7 @@ radio-friendly country, polished mix, relatable storytelling,
 BPM: 110, Key: G Major
 ```
 **Use Case:** Radio country, crossover appeal  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Medium-High (7/10)  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=country&mood=uplifting)
 
@@ -346,7 +389,7 @@ walking bass line, vintage country sound, real and unpolished,
 BPM: 85, Key: A Major
 ```
 **Use Case:** Authentic country, storytelling  
-**Suno Version:** V4.5  
+**Suno Version:** v6  
 **Energy:** Low-Medium (4/10)
 
 [📖 **100+ Country Prompts →**](prompts/country.md) | [🎨 Auto-generate Country →](https://www.songaifarm.com/generator?genre=country)
@@ -363,7 +406,7 @@ laser synths, punchy kicks, anthem-level production,
 BPM: 128, Key: C Minor
 ```
 **Use Case:** Festival sets, club bangers  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Extreme (10/10)  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=edm&mood=energetic)
 
@@ -377,7 +420,7 @@ uplifting energy, clean modern production, vocal chops,
 BPM: 124, Key: A Minor
 ```
 **Use Case:** Melodic sets, emotional journeys  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** High (8/10)
 
 [📖 **130+ EDM Prompts →**](prompts/edm.md) | [🎨 Auto-generate EDM →](https://www.songaifarm.com/generator?genre=edm)
@@ -394,7 +437,7 @@ lo-fi texture, bedroom R&B aesthetic, melismatic runs,
 BPM: 70, Key: D♭ Major
 ```
 **Use Case:** Late-night vibes, romantic songs  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Low-Medium (3/10)  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=r-b&mood=sultry)
 
@@ -408,7 +451,7 @@ Hammond organ, dynamic vocal performance, authentic soul feel,
 BPM: 95, Key: F Major
 ```
 **Use Case:** Throwback soul, powerful vocals  
-**Suno Version:** V4.5  
+**Suno Version:** v6  
 **Energy:** Medium-High (7/10)
 
 [📖 **80+ R&B/Soul Prompts →**](prompts/rnb-soul.md) | [🎨 Auto-generate R&B →](https://www.songaifarm.com/generator?genre=r-b)
@@ -425,7 +468,7 @@ nostalgic atmosphere, organic percussion, authentic and raw,
 BPM: 105, Key: E♭ Major
 ```
 **Use Case:** Intimate storytelling, chill vibes  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Low (3/10)  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=indie&mood=dreamy)
 
@@ -439,7 +482,7 @@ raw emotional delivery, indie rock attitude, gritty production,
 BPM: 130, Key: B Minor
 ```
 **Use Case:** Art rock, experimental indie  
-**Suno Version:** V4.5 or V5  
+**Suno Version:** v6 (or v6-wild for extra edge)  
 **Energy:** High (8/10)
 
 [📖 **90+ Indie Prompts →**](prompts/indie.md) | [🎨 Auto-generate Indie →](https://www.songaifarm.com/generator?genre=indie)
@@ -456,7 +499,7 @@ late-night sophistication, improvised feel, mellow and refined,
 BPM: 92, Key: B♭ Major
 ```
 **Use Case:** Background music, sophisticated vibes  
-**Suno Version:** V4.5  
+**Suno Version:** v6  
 **Energy:** Low (2/10)  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=jazz&mood=smooth)
 
@@ -470,7 +513,7 @@ emotional guitar bends, walking bass, genuine blues soul,
 BPM: 80, Key: E Blues Scale
 ```
 **Use Case:** Authentic blues, emotional storytelling  
-**Suno Version:** V4.5  
+**Suno Version:** v6  
 **Energy:** Medium (5/10)
 
 [📖 **60+ Jazz/Blues Prompts →**](prompts/jazz-blues.md) | [🎨 Auto-generate Jazz/Blues →](https://www.songaifarm.com/generator?genre=jazz)
@@ -488,7 +531,7 @@ Kabza De Small / MFR Souls production style, summer anthem energy,
 BPM: 115, Key: A Minor
 ```
 **Use Case:** Viral dance challenges, summer playlists, SA tourism campaigns  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Medium-High (7/10)  
 **Notable Feature:** The defining 3-step log drum pattern  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=afrobeats&mood=amapiano)
@@ -504,7 +547,7 @@ radio-ready 3-minute structure, summer global hit energy,
 BPM: 108, Key: G Major
 ```
 **Use Case:** Mainstream radio, global charts, brand campaigns  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** High (8/10)  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=afrobeats&mood=upbeat)
 
@@ -519,7 +562,7 @@ dark atmosphere, viral gym/editing potential,
 BPM: 140, Key: D Minor
 ```
 **Use Case:** Gym music, car edits, phonk/afro crossover audience  
-**Suno Version:** V5  
+**Suno Version:** v6-wild (fusion prompts shine here)  
 **Energy:** Extreme (10/10)  
 [📖 **50+ Afrobeats & Amapiano Prompts →**](prompts/afrobeats.md) | [🎨 Auto-generate Afrobeats →](https://www.songaifarm.com/generator?genre=afrobeats)
 
@@ -536,7 +579,7 @@ dark minor key, 30-second gym edit structure (A-A-B-A), car drift video ready,
 BPM: 140, Key: D Minor
 ```
 **Use Case:** TikTok/Reels drift edits, gym 30s loops, viral phonk formula  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Extreme (10/10)  
 **Notable Feature:** The exact cowbell pattern that goes viral  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=phonk&mood=drift)
@@ -552,7 +595,7 @@ festival-ready drop at 0:15, 30s loop optimized for edits,
 BPM: 140, Key: G Minor
 ```
 **Use Case:** Modern drift edits, cleaner aesthetic, festival phonk sets  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Extreme (10/10)  
 ---
 
@@ -565,7 +608,7 @@ Memphis vocal chops + Afrobeats vocal chops, aggressive sidechain,
 summer gym crossover, BPM: 140, Key: A Minor (Dorian)
 ```
 **Use Case:** Cross-genre viral, Afrobeats+phonk audiences, summer gym  
-**Suno Version:** V5  
+**Suno Version:** v6-wild  
 **Energy:** Extreme (10/10)  
 [📖 **50+ Phonk & Drift Phonk Prompts →**](prompts/phonk.md) | [🎨 Auto-generate Phonk →](https://www.songaifarm.com/generator?genre=phonk)
 
@@ -581,7 +624,7 @@ addictive point-choreography rhythm in chorus, Korean/English mix,
 clean maximalist production, plural vocal layers (5+), BPM: 120→90, Key: Bb Major
 ```
 **Use Case:** Viral dance covers, Y2K aesthetic content, chill but catchy  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Medium (5/10) → Low at bridge  
 **Notable Feature:** The signature tempo drop at bridge  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=k-pop&mood=y2k)
@@ -597,13 +640,13 @@ chorus: chant-like hook, brass + synth unison,
 English commands ("get loud", "break it"), BPM: 140, Key: D Minor
 ```
 **Use Case:** Gym edits, aggressive content, hype moments  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Extreme (10/10)  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=k-pop&mood=aggressive)
 
 ---
 
-#### K-Pop x Hyperpop Fusion (The 2024-2025 Sound)
+#### K-Pop x Hyperpop Fusion
 ```
 K-Pop hyperpop fusion, 150 BPM: 
 K-Pop performance structure (rap verse / vocal pre / explosive chorus)
@@ -612,7 +655,7 @@ Korean/English lyrics, idol vocal technique meets internet aesthetic,
 NewJeans meets 100 gecs, viral TikTok sound potential, BPM: 150, Key: A Minor
 ```
 **Use Case:** Maximum viral potential, cross-community appeal  
-**Suno Version:** V5  
+**Suno Version:** v6-wild (built for this kind of experimentation)  
 **Energy:** Extreme (10/10)  
 [📖 **40+ K-Pop Prompts →**](prompts/k-pop.md) | [🎨 Auto-generate K-Pop →](https://www.songaifarm.com/generator?genre=k-pop)
 
@@ -629,7 +672,7 @@ DJ Tameil / Uniiqu3 / Nadus style, classic Newark sound,
 BPM: 135, Key: F Minor
 ```
 **Use Case:** Classic Jersey sets, dance battles, authentic sound  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Extreme (10/10)  
 **Notable Feature:** The defining stutter kick pattern  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=jersey-club&mood=classic)
@@ -646,7 +689,7 @@ major key for accessibility, clean mix for phone speakers,
 BPM: 135, Key: C Major
 ```
 **Use Case:** TikTok/Reels dance challenges, 30s limit, viral optimization  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** Extreme (10/10)  
 **Notable Feature:** Mathematically loopable 30s structure  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=jersey-club&mood=viral)
@@ -662,7 +705,7 @@ chorus rhythm optimized for Jersey dance moves (body rolls on downbeats),
 cross-fandom viral potential, BPM: 135, Key: C# Minor
 ```
 **Use Case:** K-Pop dance covers, cross-community viral, maximum reach  
-**Suno Version:** V5  
+**Suno Version:** v6-wild  
 **Energy:** Extreme (10/10)  
 [📖 **40+ Jersey Club & Baltimore Club Prompts →**](prompts/jersey-club.md) | [🎨 Auto-generate Jersey Club →](https://www.songaifarm.com/generator?genre=jersey-club)
 
@@ -680,7 +723,7 @@ Peso Pluma / Natanael Cano vocal grit, gritty lo-fi production,
 Spanglish ad-libs, BPM: 140, Key: E Minor
 ```
 **Use Case:** The definitive tumbados sound — viral TikTok, Spotify Viral 50  
-**Suno Version:** V5  
+**Suno Version:** v6  
 **Energy:** High (8/10)  
 **Notable Feature:** Requinto tremolo + tuba + trap hats = the formula  
 [🎨 Auto-generate similar →](https://www.songaifarm.com/generator?genre=regional-mexican&mood=tumbados)
@@ -696,7 +739,7 @@ slow 70 BPM (felt as 140 half-time), minor key,
 late night crying energy, BPM: 70, Key: D Minor
 ```
 **Use Case:** Heartbreak playlists, late night, emotional content  
-**Suno Version:** V4.5 (better intimate acoustic)  
+**Suno Version:** v6 (handles intimate acoustic beautifully)  
 **Energy:** Low (2/10)  
 ---
 
@@ -709,7 +752,7 @@ dark atmosphere, cross-genre viral (phonk + regional audiences),
 BPM: 140, Key: D Minor
 ```
 **Use Case:** Gym edits, phonk + regional crossover, maximum viral potential  
-**Suno Version:** V5  
+**Suno Version:** v6-wild  
 **Energy:** Extreme (10/10)  
 [📖 **40+ Regional Mexican & Corridos Tumbados Prompts →**](prompts/regional-mexican.md) | [🎨 Auto-generate Regional Mexican →](https://www.songaifarm.com/generator?genre=regional-mexican)
 
@@ -724,16 +767,18 @@ BPM: 140, Key: D Minor
 - **Specify vocal style** - Raspy, smooth, breathy, powerful, melismatic, etc.
 - **Mention mixing approach** - Radio-ready, lo-fi, live recording, analog warmth, etc.
 - **Use arrow notation for evolution** - "soft verse → explosive chorus"
-- **Stay under 950 characters** - Suno truncates longer prompts
+- **Set Variety to 0 for deliberate prompts** - V6's Variety slider rewrites your style text; at 0 your tags stay exactly as typed
+- **Pick the right model** - v6 for precision, v6-wild for experimentation, v6-mini for fast drafts
+- **Stay under 950 characters** - Keeps prompts focused (use Max Mode on v6 for long, complex songs instead of longer prompts)
 
 ### ❌ DON'T:
 - Use vague terms like "good song" or "nice beat"
 - Mix contradictory styles (e.g., "lo-fi + stadium production")
-- Forget to specify Suno version (V4.5 vs V5 have different strengths)
+- Type slider values like "weirdness 20%" into the style box - they do nothing; use Advanced Options
 - Ignore genre conventions (every genre has expected elements)
 - Overload with too many ideas (focus on 3-5 core elements)
 
-**Need help optimizing your prompt?** [Song AI Farm](https://www.songaifarm.com) automatically applies these best practices and generates production-ready prompts.
+**Need help optimizing your prompt?** [Song AI Farm](https://www.songaifarm.com) automatically applies these best practices and generates v6-ready, production-quality prompts.
 
 ---
 
@@ -774,7 +819,7 @@ vintage synth pads, DIY charm, authentic and unpolished
 ```
 [Insert massive paragraph with 50+ descriptors and contradictory ideas]
 ```
-**Why it fails:** Suno truncates after ~950 characters, loses important details
+**Why it fails:** Bloated prompts dilute the core idea; v6 follows focused briefs far better
 
 ### ✅ Solution: Focused & Concise
 ```
@@ -783,6 +828,14 @@ dark atmospheric pads, confident rap flow, modern production,
 BPM: 75, Key: F Minor
 ```
 **Why it works:** Under 950 chars, focused on core elements
+
+---
+
+### ❌ Problem: "Suno V6 keeps changing my prompt"
+**Why it happens:** The **Variety** slider rewrites your style prompt by design (it's not the Personalize setting).
+
+### ✅ Solution: Variety = 0
+Set **Variety to 0** under Advanced Options. Your style tags stay exactly as typed, and prompts from this repo reproduce reliably. Turn Style Influence up (75–85) if you want even stricter adherence.
 
 [🎓 **More examples →**](examples/common-mistakes.md)
 
@@ -807,15 +860,17 @@ Specify production layers for depth:
 [Vocals] Layered harmonies, ad-libs, subtle autotune
 ```
 
-### Reference + Modification
-Use artist references + unique twist:
+### Reference + Modification (V6 Multimodal)
+On v6 you can now attach actual references — a Suno song, playlist, audio upload, image, or video — and assign each one a role:
 ```
-Billie Eilish whisper vocals + The Weeknd dark production +
-unexpected saxophone solo + trip-hop beats
+Use [song A] for the groove, [song B] for the vocal atmosphere,
+[image] for the mood — slow nocturnal electronic ballad,
+muted blue atmosphere, restrained pulse, distant vocal, spacious pads
 ```
+**Tip:** Text still does the heavy lifting — translate the reference into concrete musical decisions.
 
 ### Genre Fusion Formula
-Combine 2-3 genres with clear ratio:
+Combine 2-3 genres with clear ratio (run these on **v6-wild** for the most interesting results):
 ```
 70% Country storytelling + 20% Hip-Hop 808s + 10% Rock guitar riffs =
 Modern country-rap fusion with edge
@@ -827,6 +882,9 @@ Modern country-rap fusion with edge
 [Chorus] Heavy reverb, doubled vocals, layered harmonies
 [Bridge] Distorted megaphone effect, raw emotion
 ```
+
+### Iterate Instead of Regenerating (V6)
+Stop re-rolling whole songs. Use v6's plain-language editing to change one section or a single lyric while the rest stays put, and Mashup/Sample to rebuild from the parts you love. It's cheaper and keeps what already works.
 
 **Want these techniques applied automatically?** [Song AI Farm's AI](https://www.songaifarm.com/blog/advanced-suno-techniques) masters these patterns for you.
 
@@ -845,6 +903,8 @@ Modern country-rap fusion with edge
 | **Energy** | Intimate, building, explosive, stripped-down, euphoric | Dynamic arc |
 | **Effects** | Reverb, delay, compression, saturation, sidechain, autotune | Production techniques |
 | **Structure** | Intro → verse → pre-chorus → chorus → bridge | Song flow (optional) |
+| **Model (v6)** | v6 = precision, v6-wild = exploration, v6-mini = fast drafts | Picks the engine |
+| **V6 Controls** | Variety 0, Style Influence 75-85, Weirdness to taste | Locks in reproducibility |
 
 ---
 
@@ -925,7 +985,7 @@ We welcome contributions from the community! Here's how to help:
 [Your prompt text here]
 ```
 **Use Case:** [When to use this]
-**Suno Version:** [V4.5, V5, or Both]
+**Suno Version:** [v6, v6-wild, or v6-mini]
 **Energy:** [1-10 scale]
 **Notes:** [Any special considerations]
 ```
@@ -933,13 +993,13 @@ We welcome contributions from the community! Here's how to help:
 
 ### Quality Guidelines
 - ✅ Prompt must produce professional-quality output
-- ✅ Test on Suno AI V4.5 or V5
+- ✅ Test on the Suno v6 family (v6, v6-wild, or v6-mini) with Variety set to 0
 - ✅ Include specific use case
 - ✅ Avoid generic descriptions
 - ✅ Stay under 950 characters
 
 ### Reporting Issues
-Found a broken prompt or have suggestions? [Open an issue](https://github.com/yourusername/awesome-suno-prompts/issues/new/choose)
+Found a broken prompt or have suggestions? [Open an issue](https://github.com/naqashmunir21/awesome-suno-prompts/issues/new/choose)
 
 [📖 **Full Contributing Guide →**](CONTRIBUTING.md)
 
@@ -962,7 +1022,7 @@ This repository is licensed under [CC0 1.0 Universal](LICENSE) (Public Domain). 
 | **Melody to Lyrics** | Upload a melody/hum → AI writes matching lyrics | [songaifarm.com/melody-to-lyrics](https://www.songaifarm.com/melody-to-lyrics) |
 | **Song DNA Analyzer** | Upload audio → extract structure, lyrics, instrumentation | [songaifarm.com/song-analyzer](https://www.songaifarm.com/song-analyzer) |
 | **Lyrics Generator** | Professional lyrics in any language, genre & mood | [songaifarm.com/lyrics-generator](https://www.songaifarm.com/lyrics-generator) |
-| **Prompt Generator** | Auto-generate optimized Suno prompts | [songaifarm.com](https://www.songaifarm.com) |
+| **Prompt Generator** | Auto-generate optimized v6-ready Suno prompts | [songaifarm.com](https://www.songaifarm.com) |
 
 ### 💎 Premium
 
@@ -1044,6 +1104,7 @@ Ready-to-use JSON/Markdown packs for importing into Notion, Obsidian, or custom 
 - **52 contributors** (and growing!)
 - **Updated weekly** with new prompts
 - **100% free** and open source
+- **Fully re-verified for the Suno v6 family** (October 2026)
 
 ## ⭐ Star History
 
@@ -1073,7 +1134,7 @@ If this repository helped you create amazing music:
 - ⭐ **Star this repo** - Helps others discover it
 - 🔀 **Share with friends** - Spread the knowledge
 - 💬 **Contribute prompts** - Give back to the community
-- 🎵 **Try [Song AI Farm](https://www.songaifarm.com)** - Free prompt + lyrics generator using these patterns
+- 🎵 **Try [Song AI Farm](https://www.songaifarm.com)** - Free v6-ready prompt + lyrics generator using these patterns
 - 🧬 **[Analyze your songs](https://www.songaifarm.com/song-analyzer)** - Song DNA Analyzer
 - 🎵 **[Turn melodies into lyrics](https://www.songaifarm.com/melody-to-lyrics)** - Melody to Lyrics tool
 - 📥 **[Download Free Prompt Packs](packs/)** - JSON/Markdown packs for Notion, Obsidian, custom tools
@@ -1091,7 +1152,3 @@ If this repository helped you create amazing music:
 [🐦 Twitter](https://twitter.com/songaifarm) • [💬 Discord](https://discord.gg/d7RKGpTbwV) • [📧 Newsletter](https://www.songaifarm.com/newsletter)
 
 </div>
-
-
-
-
