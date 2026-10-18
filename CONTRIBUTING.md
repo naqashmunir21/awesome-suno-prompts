@@ -24,7 +24,8 @@ Generated an amazing song using our prompts? Share it in [examples/](examples/)!
 
 Your prompt MUST:
 - ✅ Produce professional-quality output
-- ✅ Be tested on Suno AI V4.5 or V5
+- ✅ Be tested on the Suno v6 family (v6, v6-wild, or v6-mini) — all pre-v6 models were retired in September 2026
+- ✅ Be tested with **Variety set to 0** (otherwise v6 rewrites your style tags)
 - ✅ Include specific production details
 - ✅ Stay under 950 characters
 - ✅ Avoid generic descriptions
@@ -40,11 +41,16 @@ Use this template when adding prompts:
 production details, BPM, key, etc.]
 ```
 **Use Case:** [When/why to use this prompt]
-**Suno Version:** [V4.5, V5, or Both]
+**Suno Version:** [v6, v6-wild, or v6-mini]
 **Energy:** [1-10 scale]
 **Notable Feature:** [Optional: What makes this prompt special]
 **Example Song:** [Optional: Link to song created with this prompt]
 ````
+
+**Which model should your prompt target?**
+- **v6** — precise, polished results; the default for most prompts
+- **v6-wild** — experimental fusions and genre-bending prompts
+- **v6-mini** — quick drafts; only tag mini if the prompt is specifically optimized for it
 
 ---
 
@@ -77,12 +83,13 @@ Use our [issue templates](../.github/ISSUE_TEMPLATE/):
 
 ## ✅ Checklist Before Submitting
 
-- [ ] Tested prompt on Suno AI
+- [ ] Tested prompt on the Suno v6 family
+- [ ] Tested with Variety = 0 (tags stay exactly as typed)
 - [ ] Followed format template exactly
 - [ ] Added to correct genre file
 - [ ] Prompt under 950 characters
 - [ ] Included use case
-- [ ] Specified Suno version
+- [ ] Specified Suno model (v6, v6-wild, or v6-mini)
 - [ ] Proofread for typos
 - [ ] No duplicates (check existing prompts first)
 
@@ -95,11 +102,13 @@ Use our [issue templates](../.github/ISSUE_TEMPLATE/):
 ✅ Include technical details: BPM, key, production terms  
 ✅ Specify vocal style: raspy, smooth, powerful, breathy  
 ✅ Mention production approach: radio-ready, lo-fi, live  
-✅ Use arrow notation for evolution: "soft intro → explosive chorus"
+✅ Use arrow notation for evolution: "soft intro → explosive chorus"  
+✅ Recommend v6-wild for experimental/fusion prompts
 
 ### DON'T:
 ❌ Be vague: "good song", "nice beat"  
 ❌ Mix contradictory styles: "lo-fi + stadium production"  
+❌ Type slider values into the prompt text ("weirdness 20%") — they do nothing on v6  
 ❌ Exceed character limit (950 chars)  
 ❌ Copy prompts from other sources without testing  
 ❌ Submit AI-generated prompts without verification
@@ -172,5 +181,3 @@ Every contribution makes this resource better for thousands of musicians worldwi
 ---
 
 **Made with 💚 by the [Song AI Farm](https://www.songaifarm.com) community**
-
-
